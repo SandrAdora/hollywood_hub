@@ -1,0 +1,3507 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000246",
+      "awardNominations": {
+        "total": 78,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019996",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0019237",
+                  "year": 1992,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0102070",
+                      "titleText": {
+                        "text": "Hudson Hawk",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Hudson Hawk",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1991,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1991,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2647467009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjFjMDBkYzAtNWU4OS00YTVkLTlhYWQtYTRiZGM1MmEzMGY2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Hudson Hawk (1991)",
+                        "plainText": "Hudson Hawk (1991)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020017",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0019237",
+                  "year": 1992,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0211823",
+                      "nameText": {
+                        "text": "Steven E. de Souza"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm295149058",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODdkYmY2NmEtZGYxMC00NzQ4LTkwYTAtNzljMmYxNTdlZDFjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 600,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Steven E. de Souza",
+                        "plainText": "Steven E. de Souza"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0914058",
+                      "nameText": {
+                        "text": "Daniel Waters"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Daniel Waters",
+                        "plainText": "Daniel Waters"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": {
+                      "plainText": "(story)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis (story)",
+                        "plainText": "Bruce Willis (story)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0469234",
+                      "nameText": {
+                        "text": "Robert Kraft"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2745232128",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjI5MTc3NDA5Nl5BMl5BanBnXkFtZTgwMzU4NTAyNjE@._V1_.jpg",
+                        "height": 300,
+                        "width": 239
+                      }
+                    },
+                    "note": {
+                      "plainText": "(story)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Robert Kraft (story)",
+                        "plainText": "Robert Kraft (story)"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0102070",
+                      "titleText": {
+                        "text": "Hudson Hawk",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Hudson Hawk",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1991,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1991,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2647467009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjFjMDBkYzAtNWU4OS00YTVkLTlhYWQtYTRiZGM1MmEzMGY2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Hudson Hawk (1991)",
+                        "plainText": "Hudson Hawk (1991)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020145",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0030559",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109456",
+                      "titleText": {
+                        "text": "Color of Night",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Color of Night",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 19,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1000768001",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWVmZTg3NGEtNTNmMi00ZTAyLTgzMjItOWIwMmIzZWIxODIwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1182,
+                        "width": 797
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Color of Night (1994)",
+                        "plainText": "Color of Night (1994)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0110687",
+                      "titleText": {
+                        "text": "North",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "North",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 22,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3844889601",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDcxMzM3NmMtNDBiZS00ZmNhLThiZWUtNmQ0YWE1ODdmMzE1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2905,
+                        "width": 1956
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "North (1994)",
+                        "plainText": "North (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020301",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0025462",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120591",
+                      "titleText": {
+                        "text": "Armageddon",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Armageddon",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 1,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm847843072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 962,
+                        "width": 667
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Armageddon (1998)",
+                        "plainText": "Armageddon (1998)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120749",
+                      "titleText": {
+                        "text": "Mercury Rising",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Mercury Rising",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 3,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3428386304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGIzM2NmZWMtYjY5My00NzNmLTkxMjUtYWZkYzBmYmVhNGU5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1090,
+                        "width": 736
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mercury Rising (1998)",
+                        "plainText": "Mercury Rising (1998)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0133952",
+                      "titleText": {
+                        "text": "The Siege",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Siege",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 6,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3941735425",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjY4YmMyMzYtM2M4YS00YzQ2LTg5OWUtZjc4YmQ4NGE0ZGViXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2200,
+                        "width": 1469
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Siege (1998)",
+                        "plainText": "The Siege (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062741",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Television Series - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040707",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088571",
+                      "titleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": 1989
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 3,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm449386752",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 698
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonlighting (1985)",
+                        "plainText": "Moonlighting (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0064408",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Supporting Role in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040709",
+                  "year": 1990,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0097570",
+                      "titleText": {
+                        "text": "In Country",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "In Country",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 29,
+                        "year": 1989,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm108475904",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODRlNDgtYWMwNy00NDZjLTkzMmUtMTMyMWU2MWM5NTRhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 985
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "In Country (1989)",
+                        "plainText": "In Country (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0066308",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Television Series - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040706",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088571",
+                      "titleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": 1989
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 3,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm449386752",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 698
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonlighting (1985)",
+                        "plainText": "Moonlighting (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067084",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Television Series - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040708",
+                  "year": 1988,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088571",
+                      "titleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": 1989
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 3,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm449386752",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 698
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonlighting (1985)",
+                        "plainText": "Moonlighting (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0166537",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Lead Actor in a Drama Series"
+              },
+              "notes": {
+                "plainText": "For playing \"David Addison\"."
+              },
+              "award": {
+                "id": "aw0002214",
+                "eventEdition": {
+                  "id": "ee0034534",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000223",
+                    "text": "Primetime Emmy Awards"
+                  }
+                },
+                "awardName": "Primetime Emmy"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088571",
+                      "titleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": 1989
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 3,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm449386752",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 698
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonlighting (1985)",
+                        "plainText": "Moonlighting (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0171068",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Guest Actor in a Comedy Series"
+              },
+              "notes": {
+                "plainText": "For playing \"Paul Stevens\"."
+              },
+              "award": {
+                "id": "aw0002214",
+                "eventEdition": {
+                  "id": "ee0035700",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000223",
+                    "text": "Primetime Emmy Awards"
+                  }
+                },
+                "awardName": "Primetime Emmy"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108778",
+                      "titleText": {
+                        "text": "Friends",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Friends",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": 2004
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 22,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2513109504",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 680
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Friends (1994)",
+                        "plainText": "Friends (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0171440",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Lead Actor in a Drama Series"
+              },
+              "notes": {
+                "plainText": "For playing \"David Addison\"."
+              },
+              "award": {
+                "id": "aw0002214",
+                "eventEdition": {
+                  "id": "ee0035165",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000223",
+                    "text": "Primetime Emmy Awards"
+                  }
+                },
+                "awardName": "Primetime Emmy"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088571",
+                      "titleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonlighting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": 1989
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 3,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm449386752",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 698
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonlighting (1985)",
+                        "plainText": "Moonlighting (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185339",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Male Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0028062",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0167404",
+                      "titleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 6,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2099059456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 739,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Sixth Sense (1999)",
+                        "plainText": "The Sixth Sense (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185354",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best On-Screen Duo"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0028062",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005286",
+                      "nameText": {
+                        "text": "Haley Joel Osment"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3854649345",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGEzZTUxODUtNTBmOC00YzJiLWEzNzUtYmY4MTcwNzBhOTUyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1096,
+                        "width": 794
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Haley Joel Osment",
+                        "plainText": "Haley Joel Osment"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0167404",
+                      "titleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 6,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2099059456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 739,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Sixth Sense (1999)",
+                        "plainText": "The Sixth Sense (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192407",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Actor - Suspense"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0029882",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0167404",
+                      "titleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 6,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2099059456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 739,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Sixth Sense (1999)",
+                        "plainText": "The Sixth Sense (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0196374",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0025736",
+                  "year": 1993,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0104070",
+                      "titleText": {
+                        "text": "Death Becomes Her",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Death Becomes Her",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1992,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 31,
+                        "year": 1992,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm106180097",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczYmEyMmEtMmJlYi00YjI2LTg3MzUtMzEyODUwYWYzNjJhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1499
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Death Becomes Her (1992)",
+                        "plainText": "Death Becomes Her (1992)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0196740",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0031480",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0114746",
+                      "titleText": {
+                        "text": "12 Monkeys",
+                        "isOriginalTitle": false
+                      },
+                      "originalTitleText": {
+                        "text": "Twelve Monkeys",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 5,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm267521536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1007
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "12 Monkeys (1995)",
+                        "plainText": "12 Monkeys (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0197121",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0021183",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120591",
+                      "titleText": {
+                        "text": "Armageddon",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Armageddon",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 1,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm847843072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 962,
+                        "width": 667
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Armageddon (1998)",
+                        "plainText": "Armageddon (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0197247",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0031646",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0167404",
+                      "titleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Sixth Sense",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 6,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2099059456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 739,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Sixth Sense (1999)",
+                        "plainText": "The Sixth Sense (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0215733",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Male Performer in a New TV Program"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0029488",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0220488",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best On-Screen Duo"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0030041",
+                  "year": 1992,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001834",
+                      "nameText": {
+                        "text": "Damon Wayans"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm523269121",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAzMjY0YzMtNTIwNy00MTlkLTgwZTgtZDQ2ZjhkMDAxNTBmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 4200,
+                        "width": 2800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Damon Wayans",
+                        "plainText": "Damon Wayans"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0102266",
+                      "titleText": {
+                        "text": "The Last Boy Scout",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Last Boy Scout",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1991,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 13,
+                        "year": 1991,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1025909761",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTI4MDcyZTktNTVhMC00NmQ3LWJiN2UtMzZkNDgwMzRkMzIwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2260,
+                        "width": 1515
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Last Boy Scout (1991)",
+                        "plainText": "The Last Boy Scout (1991)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0226900",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actor - Suspense"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0037357",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119395",
+                      "titleText": {
+                        "text": "The Jackal",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Jackal",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 14,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3678266625",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTAyYjFiYWYtNDI1YS00MWM5LTgyYTMtNDhiYWEzOGE2OTM0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2160,
+                        "width": 1450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Jackal (1997)",
+                        "plainText": "The Jackal (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0227827",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Voice from an Animated Movie"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003619",
+                "eventEdition": {
+                  "id": "ee0025703",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000386",
+                    "text": "Kids' Choice Awards, USA"
+                  }
+                },
+                "awardName": "Blimp Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0337711",
+                      "titleText": {
+                        "text": "Rugrats Go Wild",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rugrats Go Wild",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2003,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 13,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4040530176",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTYzMTAwNTI3MV5BMl5BanBnXkFtZTYwMzU3NTM3._V1_.jpg",
+                        "height": 705,
+                        "width": 485
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rugrats Go Wild (2003)",
+                        "plainText": "Rugrats Go Wild (2003)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0227947",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Voice from an Animated Movie"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003619",
+                "eventEdition": {
+                  "id": "ee0029921",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000386",
+                    "text": "Kids' Choice Awards, USA"
+                  }
+                },
+                "awardName": "Blimp Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0327084",
+                      "titleText": {
+                        "text": "Over the Hedge",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Over the Hedge",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 19,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3687794945",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2ZiYjQ2ZDctMDI3Yy00YmViLWEyMGYtZTYxMmE2MGM5Y2M5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1950,
+                        "width": 1316
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Over the Hedge (2006)",
+                        "plainText": "Over the Hedge (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0231208",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0009045",
+                "eventEdition": {
+                  "id": "ee0032614",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001128",
+                    "text": "Chlotrudis Awards"
+                  }
+                },
+                "awardName": "Chlotrudis Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0110912",
+                      "titleText": {
+                        "text": "Pulp Fiction",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Pulp Fiction",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 14,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1959546112",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1536,
+                        "width": 1055
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Pulp Fiction (1994)",
+                        "plainText": "Pulp Fiction (1994)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0110684",
+                      "titleText": {
+                        "text": "Nobody's Fool",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Nobody's Fool",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 13,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1130239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmNmYWYwZTctM2QzYS00Y2JlLTkyODgtYmVlNmRhNGE3YWJkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1033
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nobody's Fool (1994)",
+                        "plainText": "Nobody's Fool (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0233874",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0002810",
+                "eventEdition": {
+                  "id": "ee0035277",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000287",
+                    "text": "Golden Apple Awards"
+                  }
+                },
+                "awardName": "Sour Apple"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000246",
+                      "nameText": {
+                        "text": "Bruce Willis"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2221768704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 340
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Willis",
+                        "plainText": "Bruce Willis"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDE5OTk2",
+          "endCursor": "YW4wMjMzODc0"
+        }
+      }
+    }
+  }
+}

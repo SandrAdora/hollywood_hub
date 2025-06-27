@@ -1,0 +1,4887 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0001876",
+      "awardNominations": {
+        "total": 59,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020249",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0137494",
+                      "titleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4222959104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjliMDM0ZGQtMzA1Yy00MjZhLWI2NDgtODJhOWMyNTBlZDdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 511
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Entrapment (1999)",
+                        "plainText": "Entrapment (1999)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0171363",
+                      "titleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 23,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1714503424",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2E0OWZlNDAtODQxOS00ZjIwLTlhOTMtM2ZhNzZmYWVmOWQxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2302,
+                        "width": 1600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Haunting (1999)",
+                        "plainText": "The Haunting (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020252",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000125",
+                      "nameText": {
+                        "text": "Sean Connery"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1461980928",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2I3NDEyYjgtMDkzZS00YWUzLTk1ZGUtYmRlODc1ZDAyYjQ4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1800,
+                        "width": 1403
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sean Connery",
+                        "plainText": "Sean Connery"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0137494",
+                      "titleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4222959104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjliMDM0ZGQtMzA1Yy00MjZhLWI2NDgtODJhOWMyNTBlZDdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 511
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Entrapment (1999)",
+                        "plainText": "Entrapment (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020254",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000666",
+                      "nameText": {
+                        "text": "Lili Taylor"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm309070592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTAyNzAyMzA1ODZeQTJeQWpwZ15BbWU4MDAzNDQxNjkx._V1_.jpg",
+                        "height": 596,
+                        "width": 607
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lili Taylor",
+                        "plainText": "Lili Taylor"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0171363",
+                      "titleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 23,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1714503424",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2E0OWZlNDAtODQxOS00ZjIwLTlhOTMtM2ZhNzZmYWVmOWQxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2302,
+                        "width": 1600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Haunting (1999)",
+                        "plainText": "The Haunting (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021636",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021653",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022264",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0034318",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0181865",
+                      "titleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 5,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm802050560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM3OWEzZGMtNThmZS00ZGFmLTk4ZDctMGQ4NmRhZGM4ZjUxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 831
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Traffic (2000)",
+                        "plainText": "Traffic (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033849",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0020354",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033852",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0020354",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034013",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0025314",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000332",
+                      "nameText": {
+                        "text": "Don Cheadle"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2545980416",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 313
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Don Cheadle",
+                        "plainText": "Don Cheadle"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000123",
+                      "nameText": {
+                        "text": "George Clooney"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3196301568",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1507
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "George Clooney",
+                        "plainText": "George Clooney"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000354",
+                      "nameText": {
+                        "text": "Matt Damon"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3809120000",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 447
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Matt Damon",
+                        "plainText": "Matt Damon"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000412",
+                      "nameText": {
+                        "text": "Andy Garcia"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm883192833",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2M4MTgxMzItMGJhNi00YTZlLWJjZjQtMWM2MDRhYzQ2NmMxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 5760,
+                        "width": 3840
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Andy Garcia",
+                        "plainText": "Andy Garcia"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005170",
+                      "nameText": {
+                        "text": "Bernie Mac"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2906364672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5MjIwMDk4Ml5BMl5BanBnXkFtZTYwNTA5NTI1._V1_.jpg",
+                        "height": 400,
+                        "width": 288
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bernie Mac",
+                        "plainText": "Bernie Mac"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000093",
+                      "nameText": {
+                        "text": "Brad Pitt"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm864335360",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Brad Pitt",
+                        "plainText": "Brad Pitt"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000210",
+                      "nameText": {
+                        "text": "Julia Roberts"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1482398464",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQzNjU3MDczN15BMl5BanBnXkFtZTYwNzY2Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 270
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Julia Roberts",
+                        "plainText": "Julia Roberts"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0349903",
+                      "titleText": {
+                        "text": "Ocean's Twelve",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ocean's Twelve",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 10,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1423394304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjgxNjY3ODEtMTZhOC00NjgyLTg4YTAtZjA4ZDI2MDQ4OGJmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1184,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ocean's Twelve (2004)",
+                        "plainText": "Ocean's Twelve (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035417",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0025057",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0054923",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040378",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063155",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023541",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067817",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0029378",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0181865",
+                      "titleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 5,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm802050560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM3OWEzZGMtNThmZS00ZGFmLTk4ZDctMGQ4NmRhZGM4ZjUxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 831
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Traffic (2000)",
+                        "plainText": "Traffic (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0070307",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best European Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0068624",
+                "eventEdition": {
+                  "id": "ee0029971",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000230",
+                    "text": "European Film Awards"
+                  }
+                },
+                "awardName": "EFA People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0137494",
+                      "titleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4222959104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjliMDM0ZGQtMzA1Yy00MjZhLWI2NDgtODJhOWMyNTBlZDdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 511
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Entrapment (1999)",
+                        "plainText": "Entrapment (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103595",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Supporting Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0027844",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103628",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Supporting Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0028104",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0109828",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Performance by a Female Actor in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0034177",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0109833",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Performance by the Cast of a Theatrical Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0034177",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0116747",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Performance by the Cast of a Theatrical Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0028253",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000874",
+                      "nameText": {
+                        "text": "Steven Bauer"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm756980992",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkwNTY5MzMzMF5BMl5BanBnXkFtZTcwMjAyNDYzMQ@@._V1_.jpg",
+                        "height": 466,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Steven Bauer",
+                        "plainText": "Steven Bauer"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000973",
+                      "nameText": {
+                        "text": "Benjamin Bratt"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm423401474",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmFjMzE5NmEtZTg5Yy00NDZkLThkNzMtM2Y1Y2IzNzRhOWViXkEyXkFqcGc@._V1_CR132,25,1052,1578_.jpg",
+                        "height": 1578,
+                        "width": 1052
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Benjamin Bratt",
+                        "plainText": "Benjamin Bratt"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000981",
+                      "nameText": {
+                        "text": "James Brolin"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2167850497",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmNlZWRhYjgtOGY0Yi00NzFkLTljNzMtZTI0ZTAyMTA4OTg5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 480,
+                        "width": 640
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "James Brolin",
+                        "plainText": "James Brolin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000332",
+                      "nameText": {
+                        "text": "Don Cheadle"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2545980416",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 313
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Don Cheadle",
+                        "plainText": "Don Cheadle"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0159776",
+                      "nameText": {
+                        "text": "Erika Christensen"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2822309376",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjQ3ODYyNTczOF5BMl5BanBnXkFtZTgwOTU1NDE2MDI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1506
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Erika Christensen",
+                        "plainText": "Erika Christensen"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004286",
+                      "nameText": {
+                        "text": "Clifton Collins Jr."
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2930807296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM3MDgyMzY2Nl5BMl5BanBnXkFtZTcwMjc2MjMzMQ@@._V1_.jpg",
+                        "height": 490,
+                        "width": 350
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Clifton Collins Jr.",
+                        "plainText": "Clifton Collins Jr."
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001125",
+                      "nameText": {
+                        "text": "Benicio Del Toro"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1842974208",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 295
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Benicio Del Toro",
+                        "plainText": "Benicio Del Toro"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000140",
+                      "nameText": {
+                        "text": "Michael Douglas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4178674176",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzMzOTQ3MF5BMl5BanBnXkFtZTcwOTE0MzY1Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 304
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Michael Douglas",
+                        "plainText": "Michael Douglas"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001208",
+                      "nameText": {
+                        "text": "Miguel Ferrer"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm109091072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+                        "height": 2856,
+                        "width": 2008
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Miguel Ferrer",
+                        "plainText": "Miguel Ferrer"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001215",
+                      "nameText": {
+                        "text": "Albert Finney"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1200254464",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5NzkzMjQ4MF5BMl5BanBnXkFtZTgwMzA0NzczNzM@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1371
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Albert Finney",
+                        "plainText": "Albert Finney"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0333410",
+                      "nameText": {
+                        "text": "Topher Grace"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3585913856",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MjM4OTg0Nl5BMl5BanBnXkFtZTcwNzQ1MDE3Nw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1401
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Topher Grace",
+                        "plainText": "Topher Grace"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0350079",
+                      "nameText": {
+                        "text": "Luis Guzmán"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4204236544",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzYyNjIyOTU2NF5BMl5BanBnXkFtZTcwODk3ODcxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 274
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Luis Guzmán",
+                        "plainText": "Luis Guzmán"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001388",
+                      "nameText": {
+                        "text": "Amy Irving"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3018623232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMyNjMxMjgwMF5BMl5BanBnXkFtZTcwNzE0MzQ3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Amy Irving",
+                        "plainText": "Amy Irving"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0587401",
+                      "nameText": {
+                        "text": "Tomas Milian"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm795425536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzdhMjNmZjgtYTMzYy00ZTRjLTg1MTMtZjBlZjM4MzA0MmQ2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 674,
+                        "width": 508
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tomas Milian",
+                        "plainText": "Tomas Milian"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0595631",
+                      "nameText": {
+                        "text": "D.W. Moffett"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1849999616",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjMxOTI4NTI1N15BMl5BanBnXkFtZTgwMDgzNzg0MjE@._V1_.jpg",
+                        "height": 375,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "D.W. Moffett",
+                        "plainText": "D.W. Moffett"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000598",
+                      "nameText": {
+                        "text": "Dennis Quaid"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1373605632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU4ODk3NTcyMl5BMl5BanBnXkFtZTcwOTIwMTQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 286
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dennis Quaid",
+                        "plainText": "Dennis Quaid"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0726200",
+                      "nameText": {
+                        "text": "Peter Riegert"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3133122560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc2Nzc4NzkyNF5BMl5BanBnXkFtZTcwMjE0ODQyOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1454
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Peter Riegert",
+                        "plainText": "Peter Riegert"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0889846",
+                      "nameText": {
+                        "text": "Jacob Vargas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3072517376",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjIxNDA0Njk3OF5BMl5BanBnXkFtZTgwMTQ1OTE5NjE@._V1_.jpg",
+                        "height": 855,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jacob Vargas",
+                        "plainText": "Jacob Vargas"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0181865",
+                      "titleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Traffic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 5,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm802050560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM3OWEzZGMtNThmZS00ZGFmLTk4ZDctMGQ4NmRhZGM4ZjUxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 831
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Traffic (2000)",
+                        "plainText": "Traffic (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0127797",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001050",
+                "eventEdition": {
+                  "id": "ee0040484",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000123",
+                    "text": "BAFTA Awards"
+                  }
+                },
+                "awardName": "BAFTA Film Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192389",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Actress - Action"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0029882",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0137494",
+                      "titleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Entrapment",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4222959104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjliMDM0ZGQtMzA1Yy00MjZhLWI2NDgtODJhOWMyNTBlZDdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 511
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Entrapment (1999)",
+                        "plainText": "Entrapment (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192413",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actress - Horror"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0029882",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0171363",
+                      "titleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Haunting",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 23,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1714503424",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2E0OWZlNDAtODQxOS00ZjIwLTlhOTMtM2ZhNzZmYWVmOWQxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2302,
+                        "width": 1600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Haunting (1999)",
+                        "plainText": "The Haunting (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0197127",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0021183",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0200225",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Breakthrough Female Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0034259",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0200258",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Fight"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0034259",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIwMjQ5",
+          "endCursor": "YW4wMjAwMjU4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3591 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000701",
+      "awardNominations": {
+        "total": 302,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022608",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0030761",
+                  "year": 2006,
+                  "instanceWithinYear": 2,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0404203",
+                      "titleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm561091072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Little Children (2006)",
+                        "plainText": "Little Children (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022769",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0028838",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0024788",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005411",
+                "eventEdition": {
+                  "id": "ee0027141",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000580",
+                    "text": "San Diego Film Critics Society Awards"
+                  }
+                },
+                "awardName": "SDFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026355",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0026303",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0110005",
+                      "titleText": {
+                        "text": "Heavenly Creatures",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Heavenly Creatures",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 14,
+                        "year": 1994,
+                        "country": {
+                          "id": "NZ"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1317213952",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjY2OTgyMjMtZGEwYy00NGNjLTg3NmQtNzBmMDRkZmRiYzlhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 498
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heavenly Creatures (1994)",
+                        "plainText": "Heavenly Creatures (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026432",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0034696",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120338",
+                      "titleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 19,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2647458304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2015
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Titanic (1997)",
+                        "plainText": "Titanic (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026506",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0026382",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0180073",
+                      "titleText": {
+                        "text": "Quills",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Quills",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3187723009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTFiMGQxOWItZDMxOS00NjU1LWEwZTEtMzQ1ZDA4N2U3NjY1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1022
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Quills (2000)",
+                        "plainText": "Quills (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026709",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": {
+                "plainText": "Tied with Eva Birthistle for A Fond Kiss (2004)."
+              },
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0030042",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0338013",
+                      "titleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2954530560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1382
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Eternal Sunshine of the Spotless Mind (2004)",
+                        "plainText": "Eternal Sunshine of the Spotless Mind (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026853",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0020851",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0404203",
+                      "titleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm561091072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Little Children (2006)",
+                        "plainText": "Little Children (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026977",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0033587",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0959337",
+                      "titleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 23,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1508349184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+                        "height": 730,
+                        "width": 490
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Revolutionary Road (2008)",
+                        "plainText": "Revolutionary Road (2008)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0027000",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0033587",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0959337",
+                      "titleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 23,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1508349184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+                        "height": 730,
+                        "width": 490
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Revolutionary Road (2008)",
+                        "plainText": "Revolutionary Road (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0027508",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003866",
+                "eventEdition": {
+                  "id": "ee0022481",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000407",
+                    "text": "Los Angeles Film Critics Association Awards"
+                  }
+                },
+                "awardName": "LAFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0280778",
+                      "titleText": {
+                        "text": "Iris",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Iris",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 29,
+                        "year": 2002,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2682323200",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2M5ZWFiYWYtZGE5NC00MGMzLTkwMTQtOTE4MjIwMjEwZTNjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 837,
+                        "width": 566
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Iris (2001)",
+                        "plainText": "Iris (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030026",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003653",
+                "eventEdition": {
+                  "id": "ee0024404",
+                  "year": 2000,
+                  "instanceWithinYear": 2,
+                  "event": {
+                    "id": "ev0000392",
+                    "text": "Las Vegas Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Sierra Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0180073",
+                      "titleText": {
+                        "text": "Quills",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Quills",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3187723009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTFiMGQxOWItZDMxOS00NjU1LWEwZTEtMzQ1ZDA4N2U3NjY1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1022
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Quills (2000)",
+                        "plainText": "Quills (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030183",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003653",
+                "eventEdition": {
+                  "id": "ee0036740",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000392",
+                    "text": "Las Vegas Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Sierra Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0308644",
+                      "titleText": {
+                        "text": "Finding Neverland",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Finding Neverland",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 17,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3235177473",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWIyODcyYzYtNTNhMy00MThjLTkxZDgtMTBiOWY3ODkxNzQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1536
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Finding Neverland (2004)",
+                        "plainText": "Finding Neverland (2004)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0338013",
+                      "titleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2954530560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1382
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Eternal Sunshine of the Spotless Mind (2004)",
+                        "plainText": "Eternal Sunshine of the Spotless Mind (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030268",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003653",
+                "eventEdition": {
+                  "id": "ee0029419",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000392",
+                    "text": "Las Vegas Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Sierra Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0959337",
+                      "titleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 23,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1508349184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+                        "height": 730,
+                        "width": 490
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Revolutionary Road (2008)",
+                        "plainText": "Revolutionary Road (2008)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033986",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0025314",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0338013",
+                      "titleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2954530560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1382
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Eternal Sunshine of the Spotless Mind (2004)",
+                        "plainText": "Eternal Sunshine of the Spotless Mind (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033998",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0025314",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0308644",
+                      "titleText": {
+                        "text": "Finding Neverland",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Finding Neverland",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 17,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3235177473",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWIyODcyYzYtNTNhMy00MThjLTkxZDgtMTBiOWY3ODkxNzQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1536
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Finding Neverland (2004)",
+                        "plainText": "Finding Neverland (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034183",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0035044",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0404203",
+                      "titleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm561091072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Little Children (2006)",
+                        "plainText": "Little Children (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034401",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0040518",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035081",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0029571",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120338",
+                      "titleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 19,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2647458304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2015
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Titanic (1997)",
+                        "plainText": "Titanic (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035604",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0020184",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0338013",
+                      "titleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Eternal Sunshine of the Spotless Mind",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2954530560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1382
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Eternal Sunshine of the Spotless Mind (2004)",
+                        "plainText": "Eternal Sunshine of the Spotless Mind (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035770",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0030734",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0404203",
+                      "titleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Little Children",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm561091072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Little Children (2006)",
+                        "plainText": "Little Children (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035924",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0023716",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0959337",
+                      "titleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 23,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1508349184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+                        "height": 730,
+                        "width": 490
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Revolutionary Road (2008)",
+                        "plainText": "Revolutionary Road (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035933",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0023716",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0037515",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007709",
+                "eventEdition": {
+                  "id": "ee0037288",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000866",
+                    "text": "Vancouver Film Critics Circle"
+                  }
+                },
+                "awardName": "VFCC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0976051",
+                      "titleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Reader",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 30,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm162239744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_.jpg",
+                        "height": 889,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Reader (2008)",
+                        "plainText": "The Reader (2008)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0959337",
+                      "titleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Revolutionary Road",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 23,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1508349184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_.jpg",
+                        "height": 730,
+                        "width": 490
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Revolutionary Road (2008)",
+                        "plainText": "Revolutionary Road (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0048554",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040375",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000701",
+                      "nameText": {
+                        "text": "Kate Winslet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm537960448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1334
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kate Winslet",
+                        "plainText": "Kate Winslet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120338",
+                      "titleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Titanic",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 19,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2647458304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2015
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Titanic (1997)",
+                        "plainText": "Titanic (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIyNjA4",
+          "endCursor": "YW4wMDQ4NTU0"
+        }
+      }
+    }
+  }
+}

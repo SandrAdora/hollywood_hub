@@ -1,0 +1,4130 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000152",
+      "awardNominations": {
+        "total": 52,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019846",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0035378",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089420",
+                      "titleText": {
+                        "text": "King David",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "King David",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 29,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2753795841",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZTQ4ZDBjNzctNGMzYi00NjMxLWJiYmMtYTBjZjFjYTkyYWMzXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 498
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "King David (1985)",
+                        "plainText": "King David (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020794",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036170",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000213",
+                      "nameText": {
+                        "text": "Winona Ryder"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2885846272",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzM3MTc2NF5BMl5BanBnXkFtZTcwODMxNjA0NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1505
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Winona Ryder",
+                        "plainText": "Winona Ryder"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0174480",
+                      "titleText": {
+                        "text": "Autumn in New York",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Autumn in New York",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 11,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2324238080",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODIzZmQzMTItZGY1YS00MmU4LWE5ZjgtNmFlMjQyMGZiY2FhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1237,
+                        "width": 838
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Autumn in New York (2000)",
+                        "plainText": "Autumn in New York (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021653",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033852",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0020354",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034465",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0001156",
+                "eventEdition": {
+                  "id": "ee0040518",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Joel Siegel Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0041915",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0004583",
+                "eventEdition": {
+                  "id": "ee0033955",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000464",
+                    "text": "National Board of Review, USA"
+                  }
+                },
+                "awardName": "Freedom of Expression Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000816",
+                      "nameText": {
+                        "text": "Jon Avnet"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1301498624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZDlmYmRiZTMtZWU3Zi00ODdjLWFiMzAtNjEyN2M1MzI1ODM4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1993,
+                        "width": 1840
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jon Avnet",
+                        "plainText": "Jon Avnet"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119994",
+                      "titleText": {
+                        "text": "Red Corner",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Red Corner",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 31,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1017690880",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzE0MjU5NzQxNV5BMl5BanBnXkFtZTcwMzQzNzU2NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 691
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Red Corner (1997)",
+                        "plainText": "Red Corner (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0061120",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0005458",
+                "eventEdition": {
+                  "id": "ee0032367",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000588",
+                    "text": "San Sebastián International Film Festival"
+                  }
+                },
+                "awardName": "Donostia Lifetime Achievement Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063021",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040703",
+                  "year": 1983,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0084434",
+                      "titleText": {
+                        "text": "An Officer and a Gentleman",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "An Officer and a Gentleman",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1982,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 13,
+                        "year": 1982,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3894678528",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjhiOWY0N2MtODhmYi00YjZiLWJlYWQtZTc5NzkwYzZhYWU5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 769,
+                        "width": 519
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "An Officer and a Gentleman (1982)",
+                        "plainText": "An Officer and a Gentleman (1982)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063157",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023541",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067306",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040710",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0100405",
+                      "titleText": {
+                        "text": "Pretty Woman",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Pretty Woman",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1990,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 23,
+                        "year": 1990,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2508385280",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_.jpg",
+                        "height": 1500,
+                        "width": 991
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Pretty Woman (1990)",
+                        "plainText": "Pretty Woman (1990)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103538",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Male Star of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0019724",
+                  "year": 1983,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0109816",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Male Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0034177",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0109833",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Performance by the Cast of a Theatrical Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0034177",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004724",
+                      "nameText": {
+                        "text": "Christine Baranski"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1054117632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 299
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christine Baranski",
+                        "plainText": "Christine Baranski"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0770704",
+                      "nameText": {
+                        "text": "Ekaterina Chtchelkanova"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ekaterina Chtchelkanova",
+                        "plainText": "Ekaterina Chtchelkanova"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004875",
+                      "nameText": {
+                        "text": "Taye Diggs"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm248485888",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Taye Diggs",
+                        "plainText": "Taye Diggs"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0269658",
+                      "nameText": {
+                        "text": "Denise Faye"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3457719040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU3MDQ4NTQyMl5BMl5BanBnXkFtZTYwMDE5MzQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Denise Faye",
+                        "plainText": "Denise Faye"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272173",
+                      "nameText": {
+                        "text": "Colm Feore"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm914921472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                        "height": 400,
+                        "width": 254
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Colm Feore",
+                        "plainText": "Colm Feore"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1129963",
+                      "nameText": {
+                        "text": "Deidre Goodwin"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Deidre Goodwin",
+                        "plainText": "Deidre Goodwin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0616550",
+                      "nameText": {
+                        "text": "Mya"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3451162368",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgwNTY1OV5BMl5BanBnXkFtZTcwMTY1MDYxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mya",
+                        "plainText": "Mya"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005154",
+                      "nameText": {
+                        "text": "Lucy Liu"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2852031232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lucy Liu",
+                        "plainText": "Lucy Liu"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001451",
+                      "nameText": {
+                        "text": "Queen Latifah"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745522432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 433
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Queen Latifah",
+                        "plainText": "Queen Latifah"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0592874",
+                      "nameText": {
+                        "text": "Susan Misner"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4024444160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTExMTQwMF5BMl5BanBnXkFtZTgwMTk2NDA4MzI@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Susan Misner",
+                        "plainText": "Susan Misner"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000604",
+                      "nameText": {
+                        "text": "John C. Reilly"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3302660608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+                        "height": 504,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John C. Reilly",
+                        "plainText": "John C. Reilly"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0922035",
+                      "nameText": {
+                        "text": "Dominic West"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2625446656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+                        "height": 799,
+                        "width": 1280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dominic West",
+                        "plainText": "Dominic West"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000250",
+                      "nameText": {
+                        "text": "Renée Zellweger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2651494401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzVkNGI3ZWQtMWJjYS00NmE5LTk0ZTQtNDFhZDY2MzZlOWM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3600,
+                        "width": 2400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Renée Zellweger",
+                        "plainText": "Renée Zellweger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001876",
+                      "nameText": {
+                        "text": "Catherine Zeta-Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2796831232",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhZDJmNWItMGVkNS00YjMxLThkMGItYWE5ZDAwMTBiYTVlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 819,
+                        "width": 975
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Zeta-Jones",
+                        "plainText": "Catherine Zeta-Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0141973",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Foreign Actor (Migliore Attore Straniero)"
+              },
+              "notes": {
+                "plainText": "Tied with Michel Serrault for La Cage aux Folles (1978)."
+              },
+              "award": {
+                "id": "aw0002029",
+                "eventEdition": {
+                  "id": "ee0040589",
+                  "year": 1979,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000203",
+                    "text": "David di Donatello Awards"
+                  }
+                },
+                "awardName": "David"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0077405",
+                      "titleText": {
+                        "text": "Days of Heaven",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Days of Heaven",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1978,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 6,
+                        "year": 1978,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1805913856",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM5OTcwMjMtMDk0OC00N2M3LTlmYzQtY2Q5ZmZmNjIyOGViXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 810
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Days of Heaven (1978)",
+                        "plainText": "Days of Heaven (1978)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0178780",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Supporting Actor in a Miniseries or a Special"
+              },
+              "notes": {
+                "plainText": "For playing \"The Choreographer\"."
+              },
+              "award": {
+                "id": "aw0002214",
+                "eventEdition": {
+                  "id": "ee0030794",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000223",
+                    "text": "Primetime Emmy Awards"
+                  }
+                },
+                "awardName": "Primetime Emmy"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0106273",
+                      "titleText": {
+                        "text": "And the Band Played On",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "And the Band Played On",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 11,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvMovie",
+                        "text": "TV Movie",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Movie"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2270412801",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjQwOWQ1NDgtMzQzNy00NTFlLWJhNjQtNTUwMGRkZTk3OGIwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1343,
+                        "width": 900
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "And the Band Played On (1993)",
+                        "plainText": "And the Band Played On (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192373",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actor - Comedy/Romance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0029882",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0163187",
+                      "titleText": {
+                        "text": "Runaway Bride",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Runaway Bride",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3342396673",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjNjBhN2YtYzQwNi00OTVkLWFkNTMtNjU0OWFkNTFmZGQ4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Runaway Bride (1999)",
+                        "plainText": "Runaway Bride (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0215374",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": {
+                "plainText": "The award for Heath Ledger was posthumous."
+              },
+              "award": {
+                "id": "aw0003331",
+                "eventEdition": {
+                  "id": "ee0021305",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000349",
+                    "text": "Film Independent Spirit Awards"
+                  }
+                },
+                "awardName": "Robert Altman Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001331",
+                      "nameText": {
+                        "text": "Todd Haynes"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm363763200",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTQ5Njk0MDU1MF5BMl5BanBnXkFtZTcwMTQ1MzA2MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 273
+                      }
+                    },
+                    "note": {
+                      "plainText": "(director)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Todd Haynes (director)",
+                        "plainText": "Todd Haynes (director)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0742788",
+                      "nameText": {
+                        "text": "Laura Rosenthal"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(casting director)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Laura Rosenthal (casting director)",
+                        "plainText": "Laura Rosenthal (casting director)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000949",
+                      "nameText": {
+                        "text": "Cate Blanchett"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm365480448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1419
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cate Blanchett",
+                        "plainText": "Cate Blanchett"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005132",
+                      "nameText": {
+                        "text": "Heath Ledger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1308400384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heath Ledger",
+                        "plainText": "Heath Ledger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0924210",
+                      "nameText": {
+                        "text": "Ben Whishaw"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1552853248",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ben Whishaw",
+                        "plainText": "Ben Whishaw"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1634963",
+                      "nameText": {
+                        "text": "Marcus Carl Franklin"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm397317632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTk5MjgwOV5BMl5BanBnXkFtZTcwOTM1MzA2MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 273
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Marcus Carl Franklin",
+                        "plainText": "Marcus Carl Franklin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001250",
+                      "nameText": {
+                        "text": "Charlotte Gainsbourg"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1615444224",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1361
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Charlotte Gainsbourg",
+                        "plainText": "Charlotte Gainsbourg"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0339304",
+                      "nameText": {
+                        "text": "Bruce Greenwood"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2950011648",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODYwMDI5MDM1Nl5BMl5BanBnXkFtZTYwODUyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Greenwood",
+                        "plainText": "Bruce Greenwood"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0368794",
+                      "titleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3339948800",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_.jpg",
+                        "height": 755,
+                        "width": 510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "I'm Not There (2007)",
+                        "plainText": "I'm Not There (2007)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0231000",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0001605",
+                "eventEdition": {
+                  "id": "ee0030811",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000165",
+                    "text": "Chicago International Film Festival"
+                  }
+                },
+                "awardName": "Career Achievement Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0234485",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003182",
+                "eventEdition": {
+                  "id": "ee0023329",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000326",
+                    "text": "Hollywood Film Awards"
+                  }
+                },
+                "awardName": "Hollywood Film Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0245108",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Choice Movie Villain"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0006040",
+                "eventEdition": {
+                  "id": "ee0041102",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000644",
+                    "text": "Teen Choice Awards"
+                  }
+                },
+                "awardName": "Teen Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0299658",
+                      "titleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Chicago",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 24,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2369407488",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1475,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chicago (2002)",
+                        "plainText": "Chicago (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0245696",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Choice Movie Dance Scene"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0006040",
+                "eventEdition": {
+                  "id": "ee0041103",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000644",
+                    "text": "Teen Choice Awards"
+                  }
+                },
+                "awardName": "Teen Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000182",
+                      "nameText": {
+                        "text": "Jennifer Lopez"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3047800320",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY0OTY3ODA3OV5BMl5BanBnXkFtZTcwMzMyMzQ1NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1797
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jennifer Lopez",
+                        "plainText": "Jennifer Lopez"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0358135",
+                      "titleText": {
+                        "text": "Shall We Dance?",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Shall We Dance?",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 15,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm579116288",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTcwODUwMTMxN15BMl5BanBnXkFtZTcwNzc3MjcyMQ@@._V1_.jpg",
+                        "height": 1705,
+                        "width": 1151
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Shall We Dance? (2004)",
+                        "plainText": "Shall We Dance? (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0251782",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Supporting Actor in a Movie or Miniseries"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001260",
+                "eventEdition": {
+                  "id": "ee0033965",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000140",
+                    "text": "CableACE Awards"
+                  }
+                },
+                "awardName": "CableACE"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0106273",
+                      "titleText": {
+                        "text": "And the Band Played On",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "And the Band Played On",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 11,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvMovie",
+                        "text": "TV Movie",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Movie"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2270412801",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjQwOWQ1NDgtMzQzNy00NTFlLWJhNjQtNTUwMGRkZTk3OGIwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1343,
+                        "width": 900
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "And the Band Played On (1993)",
+                        "plainText": "And the Band Played On (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0261289",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0003016",
+                "eventEdition": {
+                  "id": "ee0029695",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000313",
+                    "text": "Hasty Pudding Theatricals, USA"
+                  }
+                },
+                "awardName": "Man of the Year"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0261888",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Motion Picture, Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002875",
+                "eventEdition": {
+                  "id": "ee0034219",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000296",
+                    "text": "Satellite Awards"
+                  }
+                },
+                "awardName": "Satellite Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0462338",
+                      "titleText": {
+                        "text": "The Hoax",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Hoax",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 20,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm436674560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYWVjYWU2YzAtNjA1OS00Mzc4LTgyOGEtMjU0ZTQwNTQzNjMzXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1014
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Hoax (2006)",
+                        "plainText": "The Hoax (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0271632",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture, Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002871",
+                "eventEdition": {
+                  "id": "ee0032108",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000296",
+                    "text": "Satellite Awards"
+                  }
+                },
+                "awardName": "Golden Satellite Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0205271",
+                      "titleText": {
+                        "text": "Dr. T & the Women",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Dr. T & the Women",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 13,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1648051712",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTcxZTc5MWMtMzY1Ni00YzQ1LWFmNDItNGYzZmM0YWQ3YjY2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2202,
+                        "width": 1462
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dr. T & the Women (2000)",
+                        "plainText": "Dr. T & the Women (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDE5ODQ2",
+          "endCursor": "YW4wMjcxNjMy"
+        }
+      }
+    }
+  }
+}

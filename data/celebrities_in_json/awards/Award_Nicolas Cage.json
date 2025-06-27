@@ -1,0 +1,3437 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000115",
+      "awardNominations": {
+        "total": 192,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021247",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0030126",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0450345",
+                      "titleText": {
+                        "text": "The Wicker Man",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Wicker Man",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 1,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4133003009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM1MjYzM2MtY2RmNS00OGUxLTlkNGItZjM3YjdmMTk1YjQ4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1374,
+                        "width": 947
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Wicker Man (2006)",
+                        "plainText": "The Wicker Man (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021267",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": {
+                "plainText": "... and his bear suit."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0030126",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0450345",
+                      "titleText": {
+                        "text": "The Wicker Man",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Wicker Man",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 1,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4133003009",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWM1MjYzM2MtY2RmNS00OGUxLTlkNGItZjM3YjdmMTk1YjQ4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1374,
+                        "width": 947
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Wicker Man (2006)",
+                        "plainText": "The Wicker Man (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021300",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0031019",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259324",
+                      "titleText": {
+                        "text": "Ghost Rider",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ghost Rider",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 16,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2824245760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ghost Rider (2007)",
+                        "plainText": "Ghost Rider (2007)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0465234",
+                      "titleText": {
+                        "text": "National Treasure: Book of Secrets",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "National Treasure: Book of Secrets",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 21,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553518080",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjEwMjUyOTQ0MF5BMl5BanBnXkFtZTYwODA2Njk3._V1_.jpg",
+                        "height": 670,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "National Treasure: Book of Secrets (2007)",
+                        "plainText": "National Treasure: Book of Secrets (2007)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0435705",
+                      "titleText": {
+                        "text": "Next",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Next",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 27,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2412090112",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjgyNjE1Nl5BMl5BanBnXkFtZTcwNTY1NDU0MQ@@._V1_.jpg",
+                        "height": 755,
+                        "width": 508
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Next (2007)",
+                        "plainText": "Next (2007)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021623",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021652",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0177933",
+                      "nameText": {
+                        "text": "Chris Cooper"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm229999616",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTgxMzgxNl5BMl5BanBnXkFtZTcwMTAyMjcxNA@@._V1_.jpg",
+                        "height": 400,
+                        "width": 297
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Chris Cooper",
+                        "plainText": "Chris Cooper"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004051",
+                      "nameText": {
+                        "text": "Brian Cox"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2021265665",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTk2MTg1MjYtMmQ5Yy00OTI0LTkyYmQtMDVlNDQ5MTQyMzU3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3553,
+                        "width": 2368
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Brian Cox",
+                        "plainText": "Brian Cox"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0786806",
+                      "nameText": {
+                        "text": "Cara Seymour"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4126448384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY2NjE3Njg3N15BMl5BanBnXkFtZTYwMTE1NTE0._V1_.jpg",
+                        "height": 400,
+                        "width": 258
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cara Seymour",
+                        "plainText": "Cara Seymour"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000658",
+                      "nameText": {
+                        "text": "Meryl Streep"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2047512320",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 427
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meryl Streep",
+                        "plainText": "Meryl Streep"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0842770",
+                      "nameText": {
+                        "text": "Tilda Swinton"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1875739392",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 319
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tilda Swinton",
+                        "plainText": "Tilda Swinton"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022075",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0033830",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022416",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0028122",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026610",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0034524",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0027398",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003866",
+                "eventEdition": {
+                  "id": "ee0040860",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000407",
+                    "text": "Los Angeles Film Critics Association Awards"
+                  }
+                },
+                "awardName": "LAFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030313",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002019",
+                "eventEdition": {
+                  "id": "ee0037220",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000201",
+                    "text": "Dallas-Fort Worth Film Critics Association Awards"
+                  }
+                },
+                "awardName": "DFWFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030643",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000976",
+                "eventEdition": {
+                  "id": "ee0036673",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000112",
+                    "text": "Boston Society of Film Critics Awards"
+                  }
+                },
+                "awardName": "BSFC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035401",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0025057",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0038251",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance, Male"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0006163",
+                "eventEdition": {
+                  "id": "ee0025818",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000657",
+                    "text": "Toronto Film Critics Association Awards"
+                  }
+                },
+                "awardName": "TFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0038341",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0006163",
+                "eventEdition": {
+                  "id": "ee0041112",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000657",
+                    "text": "Toronto Film Critics Association Awards"
+                  }
+                },
+                "awardName": "TFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1095217",
+                      "titleText": {
+                        "text": "Bad Lieutenant: Port of Call New Orleans",
+                        "isOriginalTitle": false
+                      },
+                      "originalTitleText": {
+                        "text": "The Bad Lieutenant: Port of Call - New Orleans",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2009,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 11,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1700563200",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1386
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bad Lieutenant: Port of Call New Orleans (2009)",
+                        "plainText": "Bad Lieutenant: Port of Call New Orleans (2009)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0040726",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004729",
+                "eventEdition": {
+                  "id": "ee0040981",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000484",
+                    "text": "New York Film Critics Circle Awards"
+                  }
+                },
+                "awardName": "NYFCC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0041185",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004617",
+                "eventEdition": {
+                  "id": "ee0040933",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000471",
+                    "text": "National Society of Film Critics Awards, USA"
+                  }
+                },
+                "awardName": "NSFC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0041856",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004581",
+                "eventEdition": {
+                  "id": "ee0032128",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000464",
+                    "text": "National Board of Review, USA"
+                  }
+                },
+                "awardName": "NBR Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0046940",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0005877",
+                "eventEdition": {
+                  "id": "ee0031675",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000631",
+                    "text": "Sundance Film Festival"
+                  }
+                },
+                "awardName": "Tribute to Independent Vision Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0051103",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040373",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0054910",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040378",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0061261",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005466",
+                "eventEdition": {
+                  "id": "ee0033092",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000588",
+                    "text": "San Sebastián International Film Festival"
+                  }
+                },
+                "awardName": "Silver Seashell"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062127",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0028259",
+                  "year": 1993,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0104438",
+                      "titleText": {
+                        "text": "Honeymoon in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Honeymoon in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1992,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 28,
+                        "year": 1992,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1616614401",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjZmOWU3MzEtZGMzNS00ZDdkLWIxNmEtNDgxMzk2YmJkMGJkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 509
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Honeymoon in Vegas (1992)",
+                        "plainText": "Honeymoon in Vegas (1992)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063159",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023541",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0268126",
+                      "titleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Adaptation.",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 14,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm139730433",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2171,
+                        "width": 1464
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Adaptation. (2002)",
+                        "plainText": "Adaptation. (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063877",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040712",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113627",
+                      "titleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Leaving Las Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 9,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4033133056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Leaving Las Vegas (1995)",
+                        "plainText": "Leaving Las Vegas (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067024",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040708",
+                  "year": 1988,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0093565",
+                      "titleText": {
+                        "text": "Moonstruck",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Moonstruck",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1987,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 15,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4169737473",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1540
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Moonstruck (1987)",
+                        "plainText": "Moonstruck (1987)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIxMjQ3",
+          "endCursor": "YW4wMDY3MDI0"
+        }
+      }
+    }
+  }
+}

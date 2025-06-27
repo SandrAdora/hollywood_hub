@@ -1,0 +1,3114 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000212",
+      "awardNominations": {
+        "total": 47,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020940",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0024335",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000906",
+                      "nameText": {
+                        "text": "Annette Bening"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2400756992",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
+                        "height": 1024,
+                        "width": 683
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Annette Bening",
+                        "plainText": "Annette Bening"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0578949",
+                      "nameText": {
+                        "text": "Eva Mendes"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3912743424",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA0MDQwMDI4NF5BMl5BanBnXkFtZTcwMjc1OTU1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Eva Mendes",
+                        "plainText": "Eva Mendes"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005226",
+                      "nameText": {
+                        "text": "Debra Messing"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3255676160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYzMjUzMjg3M15BMl5BanBnXkFtZTcwMTc0NDU5OA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Debra Messing",
+                        "plainText": "Debra Messing"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000586",
+                      "nameText": {
+                        "text": "Jada Pinkett Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1011476992",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTYzOTE1MjQ0OF5BMl5BanBnXkFtZTgwMzczNTkwNjE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1348
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jada Pinkett Smith",
+                        "plainText": "Jada Pinkett Smith"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0430770",
+                      "titleText": {
+                        "text": "The Women",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Women",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 12,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3944912640",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjIwNjg2MTk1MV5BMl5BanBnXkFtZTcwODQxMzk3MQ@@._V1_.jpg",
+                        "height": 755,
+                        "width": 510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Women (2008)",
+                        "plainText": "The Women (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062313",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0037126",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108160",
+                      "titleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 25,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2444975104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1431,
+                        "width": 968
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sleepless in Seattle (1993)",
+                        "plainText": "Sleepless in Seattle (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0064390",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040709",
+                  "year": 1990,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0098635",
+                      "titleText": {
+                        "text": "When Harry Met Sally...",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "When Harry Met Sally...",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 21,
+                        "year": 1989,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1579924224",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "When Harry Met Sally... (1989)",
+                        "plainText": "When Harry Met Sally... (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0066635",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023404",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0128853",
+                      "titleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 18,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745762560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "You've Got Mail (1998)",
+                        "plainText": "You've Got Mail (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103626",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Actress of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0028104",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0106366",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Female Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0019638",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0111693",
+                      "titleText": {
+                        "text": "When a Man Loves a Woman",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "When a Man Loves a Woman",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 13,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3421176064",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGQ0MzgyZjEtMmI1NC00ODk3LTk5YTktNGMxNzkxN2FhNWNmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1013
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "When a Man Loves a Woman (1994)",
+                        "plainText": "When a Man Loves a Woman (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0197125",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0021183",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120632",
+                      "titleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 10,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3538616576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1008
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "City of Angels (1998)",
+                        "plainText": "City of Angels (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0199097",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Female Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0019699",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0111693",
+                      "titleText": {
+                        "text": "When a Man Loves a Woman",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "When a Man Loves a Woman",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 13,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3421176064",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGQ0MzgyZjEtMmI1NC00ODk3LTk5YTktNGMxNzkxN2FhNWNmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1013
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "When a Man Loves a Woman (1994)",
+                        "plainText": "When a Man Loves a Woman (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0200245",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best On-Screen Duo"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0034259",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000115",
+                      "nameText": {
+                        "text": "Nicolas Cage"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757971456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1503
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Nicolas Cage",
+                        "plainText": "Nicolas Cage"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120632",
+                      "titleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 10,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3538616576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1008
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "City of Angels (1998)",
+                        "plainText": "City of Angels (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0206734",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress in a Motion Picture, Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002871",
+                "eventEdition": {
+                  "id": "ee0018996",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000296",
+                    "text": "Satellite Awards"
+                  }
+                },
+                "awardName": "Golden Satellite Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0128853",
+                      "titleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 18,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745762560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "You've Got Mail (1998)",
+                        "plainText": "You've Got Mail (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0214051",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Female Lead"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003328",
+                "eventEdition": {
+                  "id": "ee0037430",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000349",
+                    "text": "Film Independent Spirit Awards"
+                  }
+                },
+                "awardName": "Independent Spirit Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0095916",
+                      "titleText": {
+                        "text": "Promised Land",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Promised Land",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1987,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 22,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3233096192",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDU3NjY1YjMtOGY4Yi00MWIxLTk1M2UtNTNiYTU4N2I1NTgxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 731,
+                        "width": 465
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Promised Land (1987)",
+                        "plainText": "Promised Land (1987)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0227607",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Movie Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003619",
+                "eventEdition": {
+                  "id": "ee0025801",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000386",
+                    "text": "Kids' Choice Awards, USA"
+                  }
+                },
+                "awardName": "Blimp Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0128853",
+                      "titleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 18,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745762560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "You've Got Mail (1998)",
+                        "plainText": "You've Got Mail (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0233884",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Female Discovery of the Year"
+              },
+              "notes": {
+                "plainText": "Together with Pauline Collins."
+              },
+              "award": {
+                "id": "aw0002808",
+                "eventEdition": {
+                  "id": "ee0027435",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000287",
+                    "text": "Golden Apple Awards"
+                  }
+                },
+                "awardName": "Golden Apple"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0243979",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Funniest Actress in a Motion Picture (Leading Role)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000127",
+                "eventEdition": {
+                  "id": "ee0032993",
+                  "year": 1990,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000019",
+                    "text": "American Comedy Awards, USA"
+                  }
+                },
+                "awardName": "American Comedy Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0098635",
+                      "titleText": {
+                        "text": "When Harry Met Sally...",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "When Harry Met Sally...",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 21,
+                        "year": 1989,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1579924224",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "When Harry Met Sally... (1989)",
+                        "plainText": "When Harry Met Sally... (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0244047",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Funniest Actress in a Motion Picture (Leading Role)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000127",
+                "eventEdition": {
+                  "id": "ee0036159",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000019",
+                    "text": "American Comedy Awards, USA"
+                  }
+                },
+                "awardName": "American Comedy Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108160",
+                      "titleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 25,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2444975104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1431,
+                        "width": 968
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sleepless in Seattle (1993)",
+                        "plainText": "Sleepless in Seattle (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0244090",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Funniest Actress in a Motion Picture (Leading Role)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000127",
+                "eventEdition": {
+                  "id": "ee0030212",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000019",
+                    "text": "American Comedy Awards, USA"
+                  }
+                },
+                "awardName": "American Comedy Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113117",
+                      "titleText": {
+                        "text": "French Kiss",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "French Kiss",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 5,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2155535360",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMjg5MDQ3M15BMl5BanBnXkFtZTgwOTM5NTE0MDE@._V1_.jpg",
+                        "height": 1000,
+                        "width": 675
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "French Kiss (1995)",
+                        "plainText": "French Kiss (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0244180",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Funniest Actress in a Motion Picture (Leading Role)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000127",
+                "eventEdition": {
+                  "id": "ee0021311",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000019",
+                    "text": "American Comedy Awards, USA"
+                  }
+                },
+                "awardName": "American Comedy Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0128853",
+                      "titleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 18,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745762560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "You've Got Mail (1998)",
+                        "plainText": "You've Got Mail (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0261233",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0003017",
+                "eventEdition": {
+                  "id": "ee0022471",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000313",
+                    "text": "Hasty Pudding Theatricals, USA"
+                  }
+                },
+                "awardName": "Woman of the Year"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0285430",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Female Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0019403",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108160",
+                      "titleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 25,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2444975104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1431,
+                        "width": 968
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sleepless in Seattle (1993)",
+                        "plainText": "Sleepless in Seattle (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0285453",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best On-Screen Duo"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0019403",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108160",
+                      "titleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 25,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2444975104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1431,
+                        "width": 968
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sleepless in Seattle (1993)",
+                        "plainText": "Sleepless in Seattle (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0300270",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Individual Achievement for Voice Acting by a Female Performer in an Animated Feature Production"
+              },
+              "notes": {
+                "plainText": "For playing \"Anastasia\"."
+              },
+              "award": {
+                "id": "aw0000294",
+                "eventEdition": {
+                  "id": "ee0027317",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000032",
+                    "text": "Annie Awards"
+                  }
+                },
+                "awardName": "Annie"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0118617",
+                      "titleText": {
+                        "text": "Anastasia",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Anastasia",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 19,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1346181376",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMGY2YjdjNTItMGIzOC00MDNhLTkxNDMtNzgxN2U4YzA3YzRlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2896,
+                        "width": 1955
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Anastasia (1997)",
+                        "plainText": "Anastasia (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0302648",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0006755",
+                "eventEdition": {
+                  "id": "ee0032970",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000701",
+                    "text": "Women in Film Crystal Awards"
+                  }
+                },
+                "awardName": "Crystal Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0303184",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Actress - Comedy/Romance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0021826",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0128853",
+                      "titleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "You've Got Mail",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 18,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1745762560",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "You've Got Mail (1998)",
+                        "plainText": "You've Got Mail (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0303214",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actress - Drama/Romance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0021826",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120632",
+                      "titleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "City of Angels",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 10,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3538616576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1008
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "City of Angels (1998)",
+                        "plainText": "City of Angels (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0304078",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actress - Suspense"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0030148",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000212",
+                      "nameText": {
+                        "text": "Meg Ryan"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3711566592",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0NzI3OV5BMl5BanBnXkFtZTgwODIyMzUzMDI@._V1_.jpg",
+                        "height": 713,
+                        "width": 487
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Meg Ryan",
+                        "plainText": "Meg Ryan"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0228750",
+                      "titleText": {
+                        "text": "Proof of Life",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Proof of Life",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 8,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm267099904",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMyODkwNzM3OV5BMl5BanBnXkFtZTYwMTc5Nzc5._V1_.jpg",
+                        "height": 808,
+                        "width": 548
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Proof of Life (2000)",
+                        "plainText": "Proof of Life (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIwOTQw",
+          "endCursor": "YW4wMzA0MDc4"
+        }
+      }
+    }
+  }
+}

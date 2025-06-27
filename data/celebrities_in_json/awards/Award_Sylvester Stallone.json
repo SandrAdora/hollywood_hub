@@ -1,0 +1,3486 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000230",
+      "awardNominations": {
+        "total": 149,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019844",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0035378",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089880",
+                      "titleText": {
+                        "text": "Rambo: First Blood Part II",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rambo: First Blood Part II",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 22,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2029328128",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTNiMzUyZjQtY2RlOS00MjIxLWFlMjAtNjI1NjkzY2JjN2M3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1424,
+                        "width": 912
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rambo: First Blood Part II (1985)",
+                        "plainText": "Rambo: First Blood Part II (1985)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089927",
+                      "titleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 27,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1526422785",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1499
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rocky IV (1985)",
+                        "plainText": "Rocky IV (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019864",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Director"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0035378",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089927",
+                      "titleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 27,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1526422785",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1499
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rocky IV (1985)",
+                        "plainText": "Rocky IV (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019869",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0035378",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000116",
+                      "nameText": {
+                        "text": "James Cameron"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1571458816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 266
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "James Cameron",
+                        "plainText": "James Cameron"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0418883",
+                      "nameText": {
+                        "text": "Kevin Jarre"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(story)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kevin Jarre (story)",
+                        "plainText": "Kevin Jarre (story)"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089880",
+                      "titleText": {
+                        "text": "Rambo: First Blood Part II",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rambo: First Blood Part II",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 22,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2029328128",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTNiMzUyZjQtY2RlOS00MjIxLWFlMjAtNjI1NjkzY2JjN2M3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1424,
+                        "width": 912
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rambo: First Blood Part II (1985)",
+                        "plainText": "Rambo: First Blood Part II (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019872",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0035378",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089927",
+                      "titleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rocky IV",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 27,
+                        "year": 1985,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1526422785",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1499
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rocky IV (1985)",
+                        "plainText": "Rocky IV (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019898",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0034760",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0090859",
+                      "titleText": {
+                        "text": "Cobra",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cobra",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1986,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 23,
+                        "year": 1986,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm22093312",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1600,
+                        "width": 1073
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cobra (1986)",
+                        "plainText": "Cobra (1986)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019920",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0034760",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0090859",
+                      "titleText": {
+                        "text": "Cobra",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cobra",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1986,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 23,
+                        "year": 1986,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm22093312",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1600,
+                        "width": 1073
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cobra (1986)",
+                        "plainText": "Cobra (1986)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0019994",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0019237",
+                  "year": 1992,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0102603",
+                      "titleText": {
+                        "text": "Oscar",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Oscar",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1991,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 26,
+                        "year": 1991,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3571070464",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZTcwZjUwYzUtMzZhMC00MzY5LWFkZjQtYjdlODA0MThjMDQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 749,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Oscar (1991)",
+                        "plainText": "Oscar (1991)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020038",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0033622",
+                  "year": 1990,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0097770",
+                      "titleText": {
+                        "text": "Lock Up",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Lock Up",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 4,
+                        "year": 1989,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3100384001",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDIwMzM4MDQtMmE2MC00YWEyLTk5NDYtMGQ2NzEzZWEwNjVkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2906,
+                        "width": 1996
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lock Up (1989)",
+                        "plainText": "Lock Up (1989)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0098439",
+                      "titleText": {
+                        "text": "Tango & Cash",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Tango & Cash",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 1989,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2811429121",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjcwNzI2ZWQtMDE2Yy00MGU2LTljZGYtZmVjZmQ4NDYzZmI2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2260,
+                        "width": 1509
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tango & Cash (1989)",
+                        "plainText": "Tango & Cash (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020073",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor of the Decade"
+              },
+              "notes": {
+                "plainText": "For Cobra (1986), Lock Up (1989), Over the Top (1987), Rambo: First Blood Part II (1985), Rambo III (1988), Rocky IV (1985), Rhinestone (1984) and Tango & Cash (1989)."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0033622",
+                  "year": 1990,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020093",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0028093",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0095956",
+                      "titleText": {
+                        "text": "Rambo III",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rambo III",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 25,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3645822209",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1538,
+                        "width": 994
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rambo III (1988)",
+                        "plainText": "Rambo III (1988)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020121",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0028093",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0504802",
+                      "nameText": {
+                        "text": "Sheldon Lettich"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm107538944",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzU4Mzg4NTQwMl5BMl5BanBnXkFtZTgwNTI2NTcwNjE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1652
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sheldon Lettich",
+                        "plainText": "Sheldon Lettich"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0095956",
+                      "titleText": {
+                        "text": "Rambo III",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rambo III",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 25,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3645822209",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1538,
+                        "width": 994
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rambo III (1988)",
+                        "plainText": "Rambo III (1988)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020144",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0030559",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0111255",
+                      "titleText": {
+                        "text": "The Specialist",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Specialist",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 7,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3070519809",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZTI4MTYxYzItNmMyOC00MzBmLTg4MmUtNjM1OTlhM2IzMTc1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Specialist (1994)",
+                        "plainText": "The Specialist (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020152",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": {
+                "plainText": "Tied with Cruise/Pitt in Interview with the Vampire (1994)."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0030559",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000232",
+                      "nameText": {
+                        "text": "Sharon Stone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2563147520",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDU1ODQwNF5BMl5BanBnXkFtZTcwOTc3MjQwNA@@._V1_.jpg",
+                        "height": 400,
+                        "width": 280
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sharon Stone",
+                        "plainText": "Sharon Stone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0111255",
+                      "titleText": {
+                        "text": "The Specialist",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Specialist",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 7,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3070519809",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZTI4MTYxYzItNmMyOC00MzBmLTg4MmUtNjM1OTlhM2IzMTc1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Specialist (1994)",
+                        "plainText": "The Specialist (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020199",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Supporting Actor"
+              },
+              "notes": {
+                "plainText": "Whose 5 roles could fill this entire category!"
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0025905",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0338459",
+                      "titleText": {
+                        "text": "Spy Kids 3: Game Over",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Spy Kids 3: Game Over",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2003,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 25,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm237467137",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE1MzVhNjgtMDE5Zi00YmIyLWI4ZTQtZTBiZTRkNmFhZjUzXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2920,
+                        "width": 1970
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Spy Kids 3: Game Over (2003)",
+                        "plainText": "Spy Kids 3: Game Over (2003)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020276",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor of the Century"
+              },
+              "notes": {
+                "plainText": "For 99.5% of everything he has EVER done."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020320",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Supporting Actor"
+              },
+              "notes": {
+                "plainText": "As himself."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0025462",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0118577",
+                      "titleText": {
+                        "text": "An Alan Smithee Film: Burn Hollywood Burn",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "An Alan Smithee Film: Burn Hollywood Burn",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 8,
+                        "year": 1998,
+                        "country": {
+                          "id": "TH"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2141623809",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjVlYTdhMTMtZWFlNS00ZTMxLWFiODctNmI5ODg3MzNhMzQzXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "An Alan Smithee Film: Burn Hollywood Burn (1997)",
+                        "plainText": "An Alan Smithee Film: Burn Hollywood Burn (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020370",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036685",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112401",
+                      "titleText": {
+                        "text": "Assassins",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Assassins",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 6,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1383733761",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjRmZDUzZTctMzkyMi00ZDY1LTk2MDgtMDI0MTM4ZTYzOWI4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2627,
+                        "width": 1750
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Assassins (1995)",
+                        "plainText": "Assassins (1995)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0113492",
+                      "titleText": {
+                        "text": "Judge Dredd",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Judge Dredd",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 30,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1667124225",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZWM0MjExNzMtNGJkMy00MDNhLTlkOTctNDFiYzVjNTVmNGFjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1531
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Judge Dredd (1995)",
+                        "plainText": "Judge Dredd (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020486",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0022945",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000608",
+                      "nameText": {
+                        "text": "Burt Reynolds"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3100285696",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg2Nzc1ODA1OF5BMl5BanBnXkFtZTcwMTc4MTc1MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 259
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Burt Reynolds",
+                        "plainText": "Burt Reynolds"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0132245",
+                      "titleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 27,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm350854912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDk4NzI0NF5BMl5BanBnXkFtZTYwNjU0Nzc5._V1_.jpg",
+                        "height": 815,
+                        "width": 550
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Driven (2001)",
+                        "plainText": "Driven (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020491",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Supporting Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0022945",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0132245",
+                      "titleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 27,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm350854912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDk4NzI0NF5BMl5BanBnXkFtZTYwNjU0Nzc5._V1_.jpg",
+                        "height": 815,
+                        "width": 550
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Driven (2001)",
+                        "plainText": "Driven (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020511",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0022945",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": {
+                      "plainText": "(screenplay)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone (screenplay)",
+                        "plainText": "Sylvester Stallone (screenplay)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0804847",
+                      "nameText": {
+                        "text": "Jan Skrentny"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(story)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jan Skrentny (story)",
+                        "plainText": "Jan Skrentny (story)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0845844",
+                      "nameText": {
+                        "text": "Neal Tabachnick"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(story)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Neal Tabachnick (story)",
+                        "plainText": "Neal Tabachnick (story)"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0132245",
+                      "titleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Driven",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 27,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm350854912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDk4NzI0NF5BMl5BanBnXkFtZTYwNjU0Nzc5._V1_.jpg",
+                        "height": 815,
+                        "width": 550
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Driven (2001)",
+                        "plainText": "Driven (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020573",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036030",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0116040",
+                      "titleText": {
+                        "text": "Daylight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Daylight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1996,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 6,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2772703745",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZTM2YTg0OWUtODc5ZC00ZGU2LWFkZGYtMDFmZGE3NzFhYjM4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2930,
+                        "width": 1979
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Daylight (1996)",
+                        "plainText": "Daylight (1996)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020626",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0028105",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0100507",
+                      "titleText": {
+                        "text": "Rocky V",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rocky V",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1990,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 16,
+                        "year": 1990,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm116308736",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM2Mzc4MTYxM15BMl5BanBnXkFtZTcwODY5NTk1NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rocky V (1990)",
+                        "plainText": "Rocky V (1990)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020651",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screenplay"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0028105",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0100507",
+                      "titleText": {
+                        "text": "Rocky V",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rocky V",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1990,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 16,
+                        "year": 1990,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm116308736",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM2Mzc4MTYxM15BMl5BanBnXkFtZTcwODY5NTk1NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 682
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rocky V (1990)",
+                        "plainText": "Rocky V (1990)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020785",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036170",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0208988",
+                      "titleText": {
+                        "text": "Get Carter",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Get Carter",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 6,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm512071936",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMDk3Njg3NF5BMl5BanBnXkFtZTYwNTIzMzU3._V1_.jpg",
+                        "height": 703,
+                        "width": 475
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Get Carter (2000)",
+                        "plainText": "Get Carter (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020879",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0025040",
+                  "year": 1985,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000230",
+                      "nameText": {
+                        "text": "Sylvester Stallone"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4142536704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDY2ODk4ODVeQTJeQWpwZ15BbWU4MDY1ODc3MTgx._V1_.jpg",
+                        "height": 2048,
+                        "width": 1593
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sylvester Stallone",
+                        "plainText": "Sylvester Stallone"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088001",
+                      "titleText": {
+                        "text": "Rhinestone",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rhinestone",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1984,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 22,
+                        "year": 1984,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2137143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMDAzZjlhZTctMTk4MC00ODI1LTlkYmYtYTcxMTJkMzE5M2Y2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rhinestone (1984)",
+                        "plainText": "Rhinestone (1984)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDE5ODQ0",
+          "endCursor": "YW4wMDIwODc5"
+        }
+      }
+    }
+  }
+}

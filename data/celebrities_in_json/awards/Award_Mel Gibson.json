@@ -1,0 +1,2749 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000154",
+      "awardNominations": {
+        "total": 94,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033635",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Director"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0030924",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0051098",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040373",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0480440",
+                      "nameText": {
+                        "text": "Alan Ladd Jr."
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm488687617",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGM1MTcyNDEtYmU4Yy00YmY0LWJhYzYtNTA2OGIxY2IzYTgwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1379,
+                        "width": 936
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Alan Ladd Jr.",
+                        "plainText": "Alan Ladd Jr."
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0202704",
+                      "nameText": {
+                        "text": "Bruce Davey"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Davey",
+                        "plainText": "Bruce Davey"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0051123",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Director"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040373",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063866",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Director - Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040712",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0064153",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0028661",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0117438",
+                      "titleText": {
+                        "text": "Ransom",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ransom",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1996,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 11,
+                        "day": 8,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3336517632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjIxODEwMzgtNmEwNS00NzEzLTk1YTQtNzQzOGE2ZTIzZjk5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1330,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ransom (1996)",
+                        "plainText": "Ransom (1996)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067812",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0029378",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0207201",
+                      "titleText": {
+                        "text": "What Women Want",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "What Women Want",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3162379520",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjA3ZDkzNGEtZmU1OS00YzNiLWJiMzItNTk0ZTZhOWM5ZTUxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1497,
+                        "width": 1059
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "What Women Want (2000)",
+                        "plainText": "What Women Want (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103577",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Male Star of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0023072",
+                  "year": 1993,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103797",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Director of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0034104",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0112920",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Directorial Achievement in Motion Pictures"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002114",
+                "eventEdition": {
+                  "id": "ee0032463",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000212",
+                    "text": "Directors Guild of America, USA"
+                  }
+                },
+                "awardName": "DGA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0127181",
+              "isWinner": false,
+              "winningRank": null,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0001055",
+                "eventEdition": {
+                  "id": "ee0024091",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000123",
+                    "text": "BAFTA Awards"
+                  }
+                },
+                "awardName": "David Lean Award for Direction"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0112573",
+                      "titleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Braveheart",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 24,
+                        "year": 1995,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170786816",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2924,
+                        "width": 1981
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Braveheart (1995)",
+                        "plainText": "Braveheart (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0128224",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Film not in the English Language"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001050",
+                "eventEdition": {
+                  "id": "ee0023647",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000123",
+                    "text": "BAFTA Awards"
+                  }
+                },
+                "awardName": "BAFTA Film Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0472043",
+                      "titleText": {
+                        "text": "Apocalypto",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Apocalypto",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 8,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2283733504",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1779,
+                        "width": 1200
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Apocalypto (2006)",
+                        "plainText": "Apocalypto (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0134408",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0003458",
+                "eventEdition": {
+                  "id": "ee0023358",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000365",
+                    "text": "Irish Film and Television Awards"
+                  }
+                },
+                "awardName": "Outstanding Contribution to World Cinema"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0153621",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor in a Lead Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000517",
+                "eventEdition": {
+                  "id": "ee0027052",
+                  "year": 1979,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000062",
+                    "text": "Australian Film Institute"
+                  }
+                },
+                "awardName": "AFI Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0080024",
+                      "titleText": {
+                        "text": "Tim",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Tim",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1979,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 13,
+                        "year": 1979,
+                        "country": {
+                          "id": "AU"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3470591744",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjFiMTU0MmUtM2U2Mi00ZDUwLTk3YmUtMTA4MTg1NzlkZTg4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 507
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tim (1979)",
+                        "plainText": "Tim (1979)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0153708",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor in a Lead Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000517",
+                "eventEdition": {
+                  "id": "ee0030701",
+                  "year": 1981,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000062",
+                    "text": "Australian Film Institute"
+                  }
+                },
+                "awardName": "AFI Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0082432",
+                      "titleText": {
+                        "text": "Gallipoli",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Gallipoli",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1981,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 28,
+                        "year": 1981,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm305796097",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjlmMzdiZjAtNTI5Yi00MWNlLTk4NWItOTAxZDQwN2UwZTc5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2910,
+                        "width": 1919
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gallipoli (1981)",
+                        "plainText": "Gallipoli (1981)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0153819",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Lead Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000517",
+                "eventEdition": {
+                  "id": "ee0032611",
+                  "year": 1983,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000062",
+                    "text": "Australian Film Institute"
+                  }
+                },
+                "awardName": "AFI Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0086617",
+                      "titleText": {
+                        "text": "The Year of Living Dangerously",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Year of Living Dangerously",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1982,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 18,
+                        "year": 1983,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1218971136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzBmZTg1OWEtZGViNS00YWJiLWEzZTItMDgyMTEzNWQ1MDRmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 990
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Year of Living Dangerously (1982)",
+                        "plainText": "The Year of Living Dangerously (1982)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0155453",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0000519",
+                "eventEdition": {
+                  "id": "ee0031599",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000062",
+                    "text": "Australian Film Institute"
+                  }
+                },
+                "awardName": "Global Achievement Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0189465",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Motion Picture Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0019850",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192396",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Actor - Action"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0029882",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120784",
+                      "titleText": {
+                        "text": "Payback",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Payback",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 5,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1387022336",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZDVmM2YxNDUtMjE2Yy00M2I0LTk1MmEtYWUxZTI4NjMyMDJiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1191,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Payback (1999)",
+                        "plainText": "Payback (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0194030",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Motion Picture Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0032892",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0194032",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Motion Picture Star in a Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0032892",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0195586",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0027213",
+                  "year": 1983,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0082694",
+                      "titleText": {
+                        "text": "The Road Warrior",
+                        "isOriginalTitle": false
+                      },
+                      "originalTitleText": {
+                        "text": "Mad Max 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1981,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 21,
+                        "year": 1982,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1219837184",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1384,
+                        "width": 916
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Road Warrior (1981)",
+                        "plainText": "The Road Warrior (1981)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0198470",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Director"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0034482",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0472043",
+                      "titleText": {
+                        "text": "Apocalypto",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Apocalypto",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 8,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2283733504",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1779,
+                        "width": 1200
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Apocalypto (2006)",
+                        "plainText": "Apocalypto (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0200254",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Action Sequence"
+              },
+              "notes": {
+                "plainText": "For the Gibson/Glover car chase on freeway and through building."
+              },
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0034259",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000418",
+                      "nameText": {
+                        "text": "Danny Glover"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3586036736",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI4ODM2MzQwN15BMl5BanBnXkFtZTcwMjY2OTI5MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 314
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Danny Glover",
+                        "plainText": "Danny Glover"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0122151",
+                      "titleText": {
+                        "text": "Lethal Weapon 4",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Lethal Weapon 4",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 10,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2034532097",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMDU4MDIyMzEtZjEwZi00NmFjLTljMzQtNDgzNDE5ZDhlMTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2260,
+                        "width": 1521
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Lethal Weapon 4 (1998)",
+                        "plainText": "Lethal Weapon 4 (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0215817",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Motion Picture Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0021920",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0226898",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Actor - Suspense"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000926",
+                "eventEdition": {
+                  "id": "ee0037357",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000104",
+                    "text": "Blockbuster Entertainment Awards"
+                  }
+                },
+                "awardName": "Blockbuster Entertainment Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000154",
+                      "nameText": {
+                        "text": "Mel Gibson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1923321600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mel Gibson",
+                        "plainText": "Mel Gibson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0118883",
+                      "titleText": {
+                        "text": "Conspiracy Theory",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Conspiracy Theory",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 8,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2786606336",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1009
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Conspiracy Theory (1997)",
+                        "plainText": "Conspiracy Theory (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDMzNjM1",
+          "endCursor": "YW4wMjI2ODk4"
+        }
+      }
+    }
+  }
+}

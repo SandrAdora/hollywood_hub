@@ -1,0 +1,3996 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000288",
+      "awardNominations": {
+        "total": 217,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0024784",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": {
+                "plainText": "For the body of work in the last year."
+              },
+              "award": {
+                "id": "aw0005412",
+                "eventEdition": {
+                  "id": "ee0025589",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000580",
+                    "text": "San Diego Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Special Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0381849",
+                      "titleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm434998528",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1359
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "3:10 to Yuma (2007)",
+                        "plainText": "3:10 to Yuma (2007)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0368794",
+                      "titleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3339948800",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_.jpg",
+                        "height": 755,
+                        "width": 510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "I'm Not There (2007)",
+                        "plainText": "I'm Not There (2007)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0462504",
+                      "titleText": {
+                        "text": "Rescue Dawn",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Rescue Dawn",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 27,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1672002304",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_.jpg",
+                        "height": 1023,
+                        "width": 688
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Rescue Dawn (2006)",
+                        "plainText": "Rescue Dawn (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026498",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0026382",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0144084",
+                      "titleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 14,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3296681472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "American Psycho (2000)",
+                        "plainText": "American Psycho (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026779",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0032979",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0361862",
+                      "titleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm673849088",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Machinist (2004)",
+                        "plainText": "The Machinist (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026851",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0020851",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0482571",
+                      "titleText": {
+                        "text": "The Prestige",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Prestige",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 20,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4031813632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Prestige (2006)",
+                        "plainText": "The Prestige (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026921",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "British Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0022389",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0381849",
+                      "titleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm434998528",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1359
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "3:10 to Yuma (2007)",
+                        "plainText": "3:10 to Yuma (2007)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034413",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Acting Ensemble"
+              },
+              "notes": {
+                "plainText": "The nomination for Heath Ledger was posthumous."
+              },
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0040518",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005132",
+                      "nameText": {
+                        "text": "Heath Ledger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1308400384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heath Ledger",
+                        "plainText": "Heath Ledger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000151",
+                      "nameText": {
+                        "text": "Morgan Freeman"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3587479040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Morgan Freeman",
+                        "plainText": "Morgan Freeman"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0350454",
+                      "nameText": {
+                        "text": "Maggie Gyllenhaal"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2131660544",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MjY3NzA4NF5BMl5BanBnXkFtZTcwNzE4MjMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 399
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Maggie Gyllenhaal",
+                        "plainText": "Maggie Gyllenhaal"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001173",
+                      "nameText": {
+                        "text": "Aaron Eckhart"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3805121280",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTAyNzMzNF5BMl5BanBnXkFtZTcwMzQ5MzQzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 286
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Aaron Eckhart",
+                        "plainText": "Aaron Eckhart"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000323",
+                      "nameText": {
+                        "text": "Michael Caine"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3495729664",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzIwNTQ4Ml5BMl5BanBnXkFtZTYwMzE1MTUz._V1_.jpg",
+                        "height": 400,
+                        "width": 288
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Michael Caine",
+                        "plainText": "Michael Caine"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000198",
+                      "nameText": {
+                        "text": "Gary Oldman"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3713904896",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1389
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gary Oldman",
+                        "plainText": "Gary Oldman"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035224",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0035577",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0144084",
+                      "titleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 14,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3296681472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "American Psycho (2000)",
+                        "plainText": "American Psycho (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0070930",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best European Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0068624",
+                "eventEdition": {
+                  "id": "ee0034773",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000230",
+                    "text": "European Film Awards"
+                  }
+                },
+                "awardName": "EFA People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0361862",
+                      "titleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm673849088",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Machinist (2004)",
+                        "plainText": "The Machinist (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0115535",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Cast in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0022756",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000128",
+                      "nameText": {
+                        "text": "Russell Crowe"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2298720512",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTExNTMxOF5BMl5BanBnXkFtZTcwNDg1NzkzNw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1365
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Russell Crowe",
+                        "plainText": "Russell Crowe"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001228",
+                      "nameText": {
+                        "text": "Peter Fonda"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1202342656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzczNzY1NjQtZTQ0Ny00OGIwLWFkM2QtM2VhYTUzN2U2ZDMxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 503,
+                        "width": 452
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Peter Fonda",
+                        "plainText": "Peter Fonda"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001543",
+                      "nameText": {
+                        "text": "Gretchen Mol"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm416911872",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODU1Njg1MV5BMl5BanBnXkFtZTcwODcwODQzMQ@@._V1_.jpg",
+                        "height": 335,
+                        "width": 320
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gretchen Mol",
+                        "plainText": "Gretchen Mol"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1316767",
+                      "nameText": {
+                        "text": "Dallas Roberts"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1238459137",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjg0MmQ4NjQtNmZlYS00MWUxLTk2YTktMzFjODAxNzc0ZGNhXkEyXkFqcGc@._V1_CR245,1,1184,1776_.jpg",
+                        "height": 1776,
+                        "width": 1184
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dallas Roberts",
+                        "plainText": "Dallas Roberts"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005416",
+                      "nameText": {
+                        "text": "Vinessa Shaw"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2259552769",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZDZkN2JiNjUtYTY5NC00YzI4LWFmYmQtODYxOGE2YjhiNjE3XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1625,
+                        "width": 1125
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vinessa Shaw",
+                        "plainText": "Vinessa Shaw"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004936",
+                      "nameText": {
+                        "text": "Ben Foster"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1963622144",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MzI2MTExMl5BMl5BanBnXkFtZTgwNjM4NjI0NjM@._V1_.jpg",
+                        "height": 697,
+                        "width": 527
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ben Foster",
+                        "plainText": "Ben Foster"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0876138",
+                      "nameText": {
+                        "text": "Alan Tudyk"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3170672896",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg",
+                        "height": 271,
+                        "width": 186
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Alan Tudyk",
+                        "plainText": "Alan Tudyk"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0503567",
+                      "nameText": {
+                        "text": "Logan Lerman"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3418716929",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2ZlNjQ2MDYtOGQzNC00MjRiLTk0YjctOWQ4YmU2MjZlYTk2XkEyXkFqcGc@._V1_CR330,90,482,723_.jpg",
+                        "height": 723,
+                        "width": 482
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Logan Lerman",
+                        "plainText": "Logan Lerman"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0381849",
+                      "titleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "3:10 to Yuma",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm434998528",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1359
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "3:10 to Yuma (2007)",
+                        "plainText": "3:10 to Yuma (2007)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0134086",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best International Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003453",
+                "eventEdition": {
+                  "id": "ee0040774",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000365",
+                    "text": "Irish Film and Television Awards"
+                  }
+                },
+                "awardName": "Audience Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0372784",
+                      "titleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 15,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2827249920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3833,
+                        "width": 2590
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Batman Begins (2005)",
+                        "plainText": "Batman Begins (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185665",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Male Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0040903",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185702",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Fight"
+              },
+              "notes": {
+                "plainText": "The nomination for Heath Ledger was posthumous."
+              },
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0040903",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005132",
+                      "nameText": {
+                        "text": "Heath Ledger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1308400384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heath Ledger",
+                        "plainText": "Heath Ledger"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0198065",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0025857",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0361862",
+                      "titleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Machinist",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm673849088",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Machinist (2004)",
+                        "plainText": "The Machinist (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0198240",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0027708",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0372784",
+                      "titleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 15,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2827249920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3833,
+                        "width": 2590
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Batman Begins (2005)",
+                        "plainText": "Batman Begins (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0198800",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0040387",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0215374",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": {
+                "plainText": "The award for Heath Ledger was posthumous."
+              },
+              "award": {
+                "id": "aw0003331",
+                "eventEdition": {
+                  "id": "ee0021305",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000349",
+                    "text": "Film Independent Spirit Awards"
+                  }
+                },
+                "awardName": "Robert Altman Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001331",
+                      "nameText": {
+                        "text": "Todd Haynes"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm363763200",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTQ5Njk0MDU1MF5BMl5BanBnXkFtZTcwMTQ1MzA2MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 273
+                      }
+                    },
+                    "note": {
+                      "plainText": "(director)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Todd Haynes (director)",
+                        "plainText": "Todd Haynes (director)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0742788",
+                      "nameText": {
+                        "text": "Laura Rosenthal"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(casting director)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Laura Rosenthal (casting director)",
+                        "plainText": "Laura Rosenthal (casting director)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000949",
+                      "nameText": {
+                        "text": "Cate Blanchett"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm365480448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1419
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cate Blanchett",
+                        "plainText": "Cate Blanchett"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000152",
+                      "nameText": {
+                        "text": "Richard Gere"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2832571136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Gere",
+                        "plainText": "Richard Gere"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005132",
+                      "nameText": {
+                        "text": "Heath Ledger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1308400384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heath Ledger",
+                        "plainText": "Heath Ledger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0924210",
+                      "nameText": {
+                        "text": "Ben Whishaw"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1552853248",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ben Whishaw",
+                        "plainText": "Ben Whishaw"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1634963",
+                      "nameText": {
+                        "text": "Marcus Carl Franklin"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm397317632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM4MTk5MjgwOV5BMl5BanBnXkFtZTcwOTM1MzA2MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 273
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Marcus Carl Franklin",
+                        "plainText": "Marcus Carl Franklin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001250",
+                      "nameText": {
+                        "text": "Charlotte Gainsbourg"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1615444224",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1361
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Charlotte Gainsbourg",
+                        "plainText": "Charlotte Gainsbourg"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0339304",
+                      "nameText": {
+                        "text": "Bruce Greenwood"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2950011648",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODYwMDI5MDM1Nl5BMl5BanBnXkFtZTYwODUyNjc4._V1_.jpg",
+                        "height": 400,
+                        "width": 291
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Bruce Greenwood",
+                        "plainText": "Bruce Greenwood"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0368794",
+                      "titleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "I'm Not There",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2007,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 7,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3339948800",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_.jpg",
+                        "height": 755,
+                        "width": 510
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "I'm Not There (2007)",
+                        "plainText": "I'm Not There (2007)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0231374",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0009045",
+                "eventEdition": {
+                  "id": "ee0041389",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001128",
+                    "text": "Chlotrudis Awards"
+                  }
+                },
+                "awardName": "Chlotrudis Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0144084",
+                      "titleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 14,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3296681472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "American Psycho (2000)",
+                        "plainText": "American Psycho (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0240969",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best British Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007277",
+                "eventEdition": {
+                  "id": "ee0018989",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000786",
+                    "text": "Empire Awards, UK"
+                  }
+                },
+                "awardName": "Empire Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0144084",
+                      "titleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "American Psycho",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 14,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3296681472",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1012
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "American Psycho (2000)",
+                        "plainText": "American Psycho (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0241216",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007277",
+                "eventEdition": {
+                  "id": "ee0035095",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000786",
+                    "text": "Empire Awards, UK"
+                  }
+                },
+                "awardName": "Empire Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0372784",
+                      "titleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Batman Begins",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 15,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2827249920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3833,
+                        "width": 2590
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Batman Begins (2005)",
+                        "plainText": "Batman Begins (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0241253",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007277",
+                "eventEdition": {
+                  "id": "ee0028292",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000786",
+                    "text": "Empire Awards, UK"
+                  }
+                },
+                "awardName": "Empire Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0482571",
+                      "titleText": {
+                        "text": "The Prestige",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Prestige",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 20,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4031813632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+                        "height": 667,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Prestige (2006)",
+                        "plainText": "The Prestige (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0241368",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007277",
+                "eventEdition": {
+                  "id": "ee0041262",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000786",
+                    "text": "Empire Awards, UK"
+                  }
+                },
+                "awardName": "Empire Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0243659",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Leading Man"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0041018",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0243671",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Male Action Star"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0041018",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0243676",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Cast"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0041018",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005132",
+                      "nameText": {
+                        "text": "Heath Ledger"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1308400384",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Heath Ledger",
+                        "plainText": "Heath Ledger"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000323",
+                      "nameText": {
+                        "text": "Michael Caine"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3495729664",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzIwNTQ4Ml5BMl5BanBnXkFtZTYwMzE1MTUz._V1_.jpg",
+                        "height": 400,
+                        "width": 288
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Michael Caine",
+                        "plainText": "Michael Caine"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001173",
+                      "nameText": {
+                        "text": "Aaron Eckhart"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3805121280",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTAyNzMzNF5BMl5BanBnXkFtZTcwMzQ5MzQzMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 286
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Aaron Eckhart",
+                        "plainText": "Aaron Eckhart"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000151",
+                      "nameText": {
+                        "text": "Morgan Freeman"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3587479040",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Morgan Freeman",
+                        "plainText": "Morgan Freeman"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0350454",
+                      "nameText": {
+                        "text": "Maggie Gyllenhaal"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2131660544",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MjY3NzA4NF5BMl5BanBnXkFtZTcwNzE4MjMyMw@@._V1_.jpg",
+                        "height": 600,
+                        "width": 399
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Maggie Gyllenhaal",
+                        "plainText": "Maggie Gyllenhaal"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000198",
+                      "nameText": {
+                        "text": "Gary Oldman"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3713904896",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1389
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gary Oldman",
+                        "plainText": "Gary Oldman"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0243679",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Favorite Superhero"
+              },
+              "notes": {
+                "plainText": "As Bruce Wayne/Batman."
+              },
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0041018",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000288",
+                      "nameText": {
+                        "text": "Christian Bale"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3114052352",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christian Bale",
+                        "plainText": "Christian Bale"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0468569",
+                      "titleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Dark Knight",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 18,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4023877632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1383
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Dark Knight (2008)",
+                        "plainText": "The Dark Knight (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDI0Nzg0",
+          "endCursor": "YW4wMjQzNjc5"
+        }
+      }
+    }
+  }
+}

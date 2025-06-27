@@ -1,0 +1,3424 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000139",
+      "awardNominations": {
+        "total": 114,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020197",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0025905",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0305357",
+                      "titleText": {
+                        "text": "Charlie's Angels: Full Throttle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Charlie's Angels: Full Throttle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2003,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 27,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2592512256",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM0MTg3OTU5N15BMl5BanBnXkFtZTYwMDc4MzU3._V1_.jpg",
+                        "height": 721,
+                        "width": 485
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Charlie's Angels: Full Throttle (2003)",
+                        "plainText": "Charlie's Angels: Full Throttle (2003)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020939",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0024335",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1033643",
+                      "titleText": {
+                        "text": "What Happens in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "What Happens in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 9,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2261245185",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmU3NDdkNDktYWJjNC00ZDAyLWI4ODItZjdhYjg2ZjZhNzM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2036
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "What Happens in Vegas (2008)",
+                        "plainText": "What Happens in Vegas (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020954",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0024335",
+                  "year": 2009,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005110",
+                      "nameText": {
+                        "text": "Ashton Kutcher"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3929295104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzIzMTE4NzcyMl5BMl5BanBnXkFtZTgwODA2NTQyNTM@._V1_.jpg",
+                        "height": 1365,
+                        "width": 2048
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ashton Kutcher",
+                        "plainText": "Ashton Kutcher"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1033643",
+                      "titleText": {
+                        "text": "What Happens in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "What Happens in Vegas",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2008,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 9,
+                        "year": 2008,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2261245185",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNmU3NDdkNDktYWJjNC00ZDAyLWI4ODItZjdhYjg2ZjZhNzM1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2036
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "What Happens in Vegas (2008)",
+                        "plainText": "What Happens in Vegas (2008)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021521",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0032000",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022362",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0020136",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0029926",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003653",
+                "eventEdition": {
+                  "id": "ee0020924",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000392",
+                    "text": "Las Vegas Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Sierra Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030717",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000976",
+                "eventEdition": {
+                  "id": "ee0030454",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000112",
+                    "text": "Boston Society of Film Critics Awards"
+                  }
+                },
+                "awardName": "BSFC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033790",
+              "isWinner": false,
+              "winningRank": 2,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0040516",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035165",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0035918",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0040762",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004729",
+                "eventEdition": {
+                  "id": "ee0040983",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000484",
+                    "text": "New York Film Critics Circle Awards"
+                  }
+                },
+                "awardName": "NYFCC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0129387",
+                      "titleText": {
+                        "text": "There's Something About Mary",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "There's Something About Mary",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 15,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1105539072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "There's Something About Mary (1998)",
+                        "plainText": "There's Something About Mary (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063171",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023541",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0217505",
+                      "titleText": {
+                        "text": "Gangs of New York",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Gangs of New York",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 20,
+                        "year": 2002,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm706435072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_.jpg",
+                        "height": 755,
+                        "width": 512
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gangs of New York (2002)",
+                        "plainText": "Gangs of New York (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063421",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040713",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0066632",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023404",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0129387",
+                      "titleText": {
+                        "text": "There's Something About Mary",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "There's Something About Mary",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 15,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1105539072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "There's Something About Mary (1998)",
+                        "plainText": "There's Something About Mary (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067557",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role in a Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0029043",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0077320",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003316",
+                "eventEdition": {
+                  "id": "ee0037410",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000346",
+                    "text": "Imagen Foundation Awards"
+                  }
+                },
+                "awardName": "Imagen Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0388125",
+                      "titleText": {
+                        "text": "In Her Shoes",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "In Her Shoes",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 7,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1600520704",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA2Njc3NTUzMDFeQTJeQWpwZ15BbWU4MDgyNTM0MjAy._V1_.jpg",
+                        "height": 3401,
+                        "width": 2308
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "In Her Shoes (2005)",
+                        "plainText": "In Her Shoes (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0080185",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0009045",
+                "eventEdition": {
+                  "id": "ee0033661",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001128",
+                    "text": "Chlotrudis Awards"
+                  }
+                },
+                "awardName": "Chlotrudis Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0089979",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Kiss (Meilleur baiser)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0010145",
+                "eventEdition": {
+                  "id": "ee0037195",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001414",
+                    "text": "NRJ Ciné Awards"
+                  }
+                },
+                "awardName": "NRJ Ciné Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000179",
+                      "nameText": {
+                        "text": "Jude Law"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3737028354",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjE0MTUwZTQtYmVmYi00MjYwLTg3OTktNDRkYmFhMTE0NzhmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3999,
+                        "width": 3000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jude Law",
+                        "plainText": "Jude Law"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0457939",
+                      "titleText": {
+                        "text": "The Holiday",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Holiday",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 8,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3038531073",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Holiday (2006)",
+                        "plainText": "The Holiday (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103795",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Female Star of Tomorrow"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0034104",
+                  "year": 1996,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0110349",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Female Actor in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0028092",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0110354",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Cast in a Theatrical Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0028092",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0004730",
+                      "nameText": {
+                        "text": "Orson Bean"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm721459712",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjY5MTIwMzAyMl5BMl5BanBnXkFtZTYwNDY5Mjgz._V1_.jpg",
+                        "height": 400,
+                        "width": 275
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Orson Bean",
+                        "plainText": "Orson Bean"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000131",
+                      "nameText": {
+                        "text": "John Cusack"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1936105985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjE2ZTJiZDAtODE4Yy00MmE5LWE3ZTYtNzIyMjM3NDY2MzYxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 1200
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John Cusack",
+                        "plainText": "John Cusack"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0001416",
+                      "nameText": {
+                        "text": "Catherine Keener"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm208245760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzQ1Mzg1MF5BMl5BanBnXkFtZTcwNTE4MTU5MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Catherine Keener",
+                        "plainText": "Catherine Keener"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000518",
+                      "nameText": {
+                        "text": "John Malkovich"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1860016896",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTcwMDM5ODUwOF5BMl5BanBnXkFtZTYwMzEwOTI4._V1_.jpg",
+                        "height": 400,
+                        "width": 303
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "John Malkovich",
+                        "plainText": "John Malkovich"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005316",
+                      "nameText": {
+                        "text": "Mary Kay Place"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1522435328",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDk0NzIzOV5BMl5BanBnXkFtZTcwNzQ3MDMzNA@@._V1_.jpg",
+                        "height": 400,
+                        "width": 282
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Mary Kay Place",
+                        "plainText": "Mary Kay Place"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000221",
+                      "nameText": {
+                        "text": "Charlie Sheen"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1701417984",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTIyNDQ5Nzk2OF5BMl5BanBnXkFtZTcwODU4MTU5MQ@@._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Charlie Sheen",
+                        "plainText": "Charlie Sheen"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0115667",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Female Actor in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0030914",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0259711",
+                      "titleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Vanilla Sky",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 14,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1681143808",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 862,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Vanilla Sky (2001)",
+                        "plainText": "Vanilla Sky (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0127482",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actress in a Supporting Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001050",
+                "eventEdition": {
+                  "id": "ee0023971",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000123",
+                    "text": "BAFTA Awards"
+                  }
+                },
+                "awardName": "BAFTA Film Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120601",
+                      "titleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Being John Malkovich",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 3,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1838953985",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1528
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Being John Malkovich (1999)",
+                        "plainText": "Being John Malkovich (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0133955",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best International Actress"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003453",
+                "eventEdition": {
+                  "id": "ee0033268",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000365",
+                    "text": "Irish Film and Television Awards"
+                  }
+                },
+                "awardName": "Audience Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0298148",
+                      "titleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm183384576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2031
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Shrek 2 (2004)",
+                        "plainText": "Shrek 2 (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185441",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Dance Sequence"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0020141",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000191",
+                      "nameText": {
+                        "text": "Ewan McGregor"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1407815168",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTg1MjQ0MDg0Nl5BMl5BanBnXkFtZTcwNjYyNjI5Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 269
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ewan McGregor",
+                        "plainText": "Ewan McGregor"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119535",
+                      "titleText": {
+                        "text": "A Life Less Ordinary",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "A Life Less Ordinary",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 24,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4280755456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTJkYWE2ODYtMDUxOC00ZWY4LTk4YTQtNWIxNzMwZjRiN2YxXkEyXkFqcGc@._V1_.jpg",
+                        "height": 879,
+                        "width": 590
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "A Life Less Ordinary (1997)",
+                        "plainText": "A Life Less Ordinary (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0191082",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Kiss"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0018959",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000179",
+                      "nameText": {
+                        "text": "Jude Law"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3737028354",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjE0MTUwZTQtYmVmYi00MjYwLTg3OTktNDRkYmFhMTE0NzhmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 3999,
+                        "width": 3000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jude Law",
+                        "plainText": "Jude Law"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000139",
+                      "nameText": {
+                        "text": "Cameron Diaz"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm79857920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTI5NzM4MV5BMl5BanBnXkFtZTcwMTI3ODY3Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 271
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cameron Diaz",
+                        "plainText": "Cameron Diaz"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0457939",
+                      "titleText": {
+                        "text": "The Holiday",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Holiday",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 8,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3038531073",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Holiday (2006)",
+                        "plainText": "The Holiday (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIwMTk3",
+          "endCursor": "YW4wMTkxMDgy"
+        }
+      }
+    }
+  }
+}

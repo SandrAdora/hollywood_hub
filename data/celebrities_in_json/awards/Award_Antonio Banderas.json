@@ -1,0 +1,3270 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000104",
+      "awardNominations": {
+        "total": 162,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033472",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Cinema - Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0009331",
+                "eventEdition": {
+                  "id": "ee0034231",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001207",
+                    "text": "Premios ACE"
+                  }
+                },
+                "awardName": "Premio ACE"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0101026",
+                      "titleText": {
+                        "text": "Tie Me Up! Tie Me Down!",
+                        "isOriginalTitle": false
+                      },
+                      "originalTitleText": {
+                        "text": "Átame!",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 22,
+                        "year": 1990,
+                        "country": {
+                          "id": "ES"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1841108992",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2M5OGY1MDEtZmJmYy00OGEyLTg5MzQtMDhjNzA5YzExNDI1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1600,
+                        "width": 1120
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tie Me Up! Tie Me Down! (1989)",
+                        "plainText": "Tie Me Up! Tie Me Down! (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0060206",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0000750",
+                "eventEdition": {
+                  "id": "ee0037014",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000091",
+                    "text": "Berlin International Film Festival"
+                  }
+                },
+                "awardName": "Label Europa Cinemas"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0477273",
+                      "titleText": {
+                        "text": "El camino de los ingleses",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "El camino de los ingleses",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 1,
+                        "year": 2006,
+                        "country": {
+                          "id": "ES"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2897949696",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjM0MDIzZTgtMzQ4ZS00ZGU5LTgwMGItYzVlMTc1MTllYjg4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 853,
+                        "width": 636
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "El camino de los ingleses (2006)",
+                        "plainText": "El camino de los ingleses (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0061405",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0005458",
+                "eventEdition": {
+                  "id": "ee0028447",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000588",
+                    "text": "San Sebastián International Film Festival"
+                  }
+                },
+                "awardName": "Donostia Lifetime Achievement Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0064162",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0028661",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0116250",
+                      "titleText": {
+                        "text": "Evita",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Evita",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1996,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 10,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1489314048",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODNjMWViYzUtMzk4ZC00NjU4LTlmNjItNzc1ZjRiZGE3Y2E1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2167,
+                        "width": 1456
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Evita (1996)",
+                        "plainText": "Evita (1996)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0066637",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023404",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0067751",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Miniseries or a Motion Picture Made for Television"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040714",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0337824",
+                      "titleText": {
+                        "text": "And Starring Pancho Villa as Himself",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "And Starring Pancho Villa as Himself",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2003,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 7,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvMovie",
+                        "text": "TV Movie",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Movie"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3441055745",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGViNTY0OGUtNTUxMS00ODM5LWJhNDItNzhjM2JjNDg2ZDlmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2100,
+                        "width": 1400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "And Starring Pancho Villa as Himself (2003)",
+                        "plainText": "And Starring Pancho Villa as Himself (2003)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0070295",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": {
+                "plainText": "For his directorial achievement and also the body of his work."
+              },
+              "award": {
+                "id": "aw0002261",
+                "eventEdition": {
+                  "id": "ee0029971",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000230",
+                    "text": "European Film Awards"
+                  }
+                },
+                "awardName": "Outstanding European Achievement in World Cinema"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0142201",
+                      "titleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 22,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2275226880",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjM0MDA3NV5BMl5BanBnXkFtZTgwMzIwMDYyMjI@._V1_.jpg",
+                        "height": 721,
+                        "width": 535
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Crazy in Alabama (1999)",
+                        "plainText": "Crazy in Alabama (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0070419",
+              "isWinner": false,
+              "winningRank": null,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0002261",
+                "eventEdition": {
+                  "id": "ee0024468",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000230",
+                    "text": "European Film Awards"
+                  }
+                },
+                "awardName": "Outstanding European Achievement in World Cinema"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0070428",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best European Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0068624",
+                "eventEdition": {
+                  "id": "ee0024468",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000230",
+                    "text": "European Film Awards"
+                  }
+                },
+                "awardName": "EFA People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0073568",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003316",
+                "eventEdition": {
+                  "id": "ee0037410",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000346",
+                    "text": "Imagen Foundation Awards"
+                  }
+                },
+                "awardName": "Imagen Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0446046",
+                      "titleText": {
+                        "text": "Take the Lead",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Take the Lead",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 7,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3706867457",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjViYjM1Y2MtZjQxYi00N2U2LWEyOWYtMWViZjc5NDM4NzFkXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1200,
+                        "width": 810
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Take the Lead (2006)",
+                        "plainText": "Take the Lead (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0077312",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003316",
+                "eventEdition": {
+                  "id": "ee0037410",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000346",
+                    "text": "Imagen Foundation Awards"
+                  }
+                },
+                "awardName": "Imagen Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0386140",
+                      "titleText": {
+                        "text": "The Legend of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Legend of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 28,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2229214208",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZjM3OGM3ZjYtYTA3YS00OTc5LWE0M2UtZTNiZjc2Yzg0ZTlhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1193,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Legend of Zorro (2005)",
+                        "plainText": "The Legend of Zorro (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0097807",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0010839",
+                "eventEdition": {
+                  "id": "ee0025347",
+                  "year": 1986,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001618",
+                    "text": "Murcia Week of Spanish Cinema"
+                  }
+                },
+                "awardName": "Francisco Rabal Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0088954",
+                      "titleText": {
+                        "text": "La corte de Faraón",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "La corte de Faraón",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 20,
+                        "year": 1986,
+                        "country": {
+                          "id": "UY"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2870287360",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0N2M5NTItZjMwMi00ODExLWEyNmQtNWE0ZTkwNThiMjE1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 2500,
+                        "width": 1778
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "La corte de Faraón (1985)",
+                        "plainText": "La corte de Faraón (1985)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0091495",
+                      "titleText": {
+                        "text": "Matador",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Matador",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1986,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 7,
+                        "year": 1986,
+                        "country": {
+                          "id": "ES"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2969540353",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmMxNzUyZmUtMDUwZC00MzBhLThjNDktZDNlMThiMDcyNGY4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1794,
+                        "width": 1261
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Matador (1986)",
+                        "plainText": "Matador (1986)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0089946",
+                      "titleText": {
+                        "text": "Réquiem por un campesino español",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Réquiem por un campesino español",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1985,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 29,
+                        "year": 1985,
+                        "country": {
+                          "id": "IT"
+                        },
+                        "restriction": null,
+                        "attributes": [
+                          {
+                            "id": "Venice Film Festival",
+                            "text": "Venice Film Festival"
+                          }
+                        ],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1911284736",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMWZkOWQyZGQtNWRhOC00ZDY4LWEzOGItOWNhMGM5NDdjOGJlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 689,
+                        "width": 500
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Réquiem por un campesino español (1985)",
+                        "plainText": "Réquiem por un campesino español (1985)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0105446",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Film: Lead Performance (Protagonista Cine)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007612",
+                "eventEdition": {
+                  "id": "ee0019670",
+                  "year": 1993,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000846",
+                    "text": "Spanish Actors Union"
+                  }
+                },
+                "awardName": "Award of the Spanish Actors Union"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0104802",
+                      "titleText": {
+                        "text": "The Mambo Kings",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mambo Kings",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1992,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 28,
+                        "year": 1992,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2170195713",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzZkZTEzZTYtNWI4Mi00NGRkLWIwNzQtMGE5NzRmYTRiNGMyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 675
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mambo Kings (1992)",
+                        "plainText": "The Mambo Kings (1992)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0106697",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by an Animated Character in an Animated Motion Picture"
+              },
+              "notes": {
+                "plainText": "For the Puss in Boots character."
+              },
+              "award": {
+                "id": "aw0007701",
+                "eventEdition": {
+                  "id": "ee0021748",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000864",
+                    "text": "Visual Effects Society Awards"
+                  }
+                },
+                "awardName": "VES Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": {
+                      "plainText": "(actor)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas (actor)",
+                        "plainText": "Antonio Banderas (actor)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0401203",
+                      "nameText": {
+                        "text": "Raman Hui"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1779141120",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTk1NzUwODIzNV5BMl5BanBnXkFtZTcwODIwNzkyMg@@._V1_.jpg",
+                        "height": 1051,
+                        "width": 1125
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Raman Hui",
+                        "plainText": "Raman Hui"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0298148",
+                      "titleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm183384576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2031
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Shrek 2 (2004)",
+                        "plainText": "Shrek 2 (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0156900",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Supporting Actor (Mejor Actor de Reparto)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002906",
+                "eventEdition": {
+                  "id": "ee0021141",
+                  "year": 1987,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000299",
+                    "text": "Goya Awards"
+                  }
+                },
+                "awardName": "Goya"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0091495",
+                      "titleText": {
+                        "text": "Matador",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Matador",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1986,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 7,
+                        "year": 1986,
+                        "country": {
+                          "id": "ES"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2969540353",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMmMxNzUyZmUtMDUwZC00MzBhLThjNDktZDNlMThiMDcyNGY4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1794,
+                        "width": 1261
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Matador (1986)",
+                        "plainText": "Matador (1986)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0157171",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Lead Actor (Mejor Actor Principal)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002906",
+                "eventEdition": {
+                  "id": "ee0032131",
+                  "year": 1991,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000299",
+                    "text": "Goya Awards"
+                  }
+                },
+                "awardName": "Goya"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0101026",
+                      "titleText": {
+                        "text": "Tie Me Up! Tie Me Down!",
+                        "isOriginalTitle": false
+                      },
+                      "originalTitleText": {
+                        "text": "Átame!",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1989,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 22,
+                        "year": 1990,
+                        "country": {
+                          "id": "ES"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1841108992",
+                        "url": "https://m.media-amazon.com/images/M/MV5BN2M5OGY1MDEtZmJmYy00OGEyLTg5MzQtMDhjNzA5YzExNDI1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1600,
+                        "width": 1120
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tie Me Up! Tie Me Down! (1989)",
+                        "plainText": "Tie Me Up! Tie Me Down! (1989)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0157575",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Lead Actor (Mejor Actor Protagonista)"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002906",
+                "eventEdition": {
+                  "id": "ee0022313",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000299",
+                    "text": "Goya Awards"
+                  }
+                },
+                "awardName": "Goya"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0118001",
+                      "titleText": {
+                        "text": "Two Much",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Two Much",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1995,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 15,
+                        "year": 1996,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1320099328",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmJiODIzNTYtYThlNS00MmUxLTgzYjgtMTIzMjU2MGM0MGMyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1812,
+                        "width": 1295
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Two Much (1995)",
+                        "plainText": "Two Much (1995)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0179024",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Lead Actor in a Miniseries or a Movie"
+              },
+              "notes": {
+                "plainText": "For playing \"Pancho Villa\"."
+              },
+              "award": {
+                "id": "aw0002214",
+                "eventEdition": {
+                  "id": "ee0040641",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000223",
+                    "text": "Primetime Emmy Awards"
+                  }
+                },
+                "awardName": "Primetime Emmy"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0337824",
+                      "titleText": {
+                        "text": "And Starring Pancho Villa as Himself",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "And Starring Pancho Villa as Himself",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2003,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 7,
+                        "year": 2003,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvMovie",
+                        "text": "TV Movie",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Movie"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3441055745",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGViNTY0OGUtNTUxMS00ODM5LWJhNDItNzhjM2JjNDg2ZDlmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2100,
+                        "width": 1400
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "And Starring Pancho Villa as Himself (2003)",
+                        "plainText": "And Starring Pancho Villa as Himself (2003)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0181395",
+              "isWinner": false,
+              "winningRank": null,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0006384",
+                "eventEdition": {
+                  "id": "ee0019961",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000681",
+                    "text": "Venice Film Festival"
+                  }
+                },
+                "awardName": "Golden Lion"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0142201",
+                      "titleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 22,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2275226880",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjM0MDA3NV5BMl5BanBnXkFtZTgwMzIwMDYyMjI@._V1_.jpg",
+                        "height": 721,
+                        "width": 535
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Crazy in Alabama (1999)",
+                        "plainText": "Crazy in Alabama (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0188718",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0005993",
+                "eventEdition": {
+                  "id": "ee0022072",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000642",
+                    "text": "Taormina International Film Festival"
+                  }
+                },
+                "awardName": "Taormina Arte Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0189942",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Voice Acting in an Animated Feature Production"
+              },
+              "notes": {
+                "plainText": "As the voice of Puss in Boots."
+              },
+              "award": {
+                "id": "aw0000294",
+                "eventEdition": {
+                  "id": "ee0036741",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000032",
+                    "text": "Annie Awards"
+                  }
+                },
+                "awardName": "Annie"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0298148",
+                      "titleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm183384576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2031
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Shrek 2 (2004)",
+                        "plainText": "Shrek 2 (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0191871",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Comedic Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0029598",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0298148",
+                      "titleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Shrek 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 5,
+                        "day": 19,
+                        "year": 2004,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm183384576",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg",
+                        "height": 3000,
+                        "width": 2031
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Shrek 2 (2004)",
+                        "plainText": "Shrek 2 (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192608",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Actor in a Feature Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000111",
+                "eventEdition": {
+                  "id": "ee0026134",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000016",
+                    "text": "ALMA Awards"
+                  }
+                },
+                "awardName": "ALMA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120746",
+                      "titleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Mask of Zorro",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 17,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3834650624",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1004
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Mask of Zorro (1998)",
+                        "plainText": "The Mask of Zorro (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192739",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Actor in a Feature Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000111",
+                "eventEdition": {
+                  "id": "ee0034659",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000016",
+                    "text": "ALMA Awards"
+                  }
+                },
+                "awardName": "ALMA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120657",
+                      "titleText": {
+                        "text": "The 13th Warrior",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The 13th Warrior",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 8,
+                        "day": 27,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1443513089",
+                        "url": "https://m.media-amazon.com/images/M/MV5BY2IwMTYyNjctYzhjZi00Y2Y3LWE3NjktMGVjMjFhNzk0NWFjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 2265,
+                        "width": 1522
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The 13th Warrior (1999)",
+                        "plainText": "The 13th Warrior (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0192749",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Director of a Feature Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000111",
+                "eventEdition": {
+                  "id": "ee0034659",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000016",
+                    "text": "ALMA Awards"
+                  }
+                },
+                "awardName": "ALMA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000104",
+                      "nameText": {
+                        "text": "Antonio Banderas"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1296087296",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1362
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Antonio Banderas",
+                        "plainText": "Antonio Banderas"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0142201",
+                      "titleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Crazy in Alabama",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 22,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2275226880",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjM0MDA3NV5BMl5BanBnXkFtZTgwMzIwMDYyMjI@._V1_.jpg",
+                        "height": 721,
+                        "width": 535
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Crazy in Alabama (1999)",
+                        "plainText": "Crazy in Alabama (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDMzNDcy",
+          "endCursor": "YW4wMTkyNzQ5"
+        }
+      }
+    }
+  }
+}

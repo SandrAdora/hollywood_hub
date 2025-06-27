@@ -1,0 +1,1558 @@
+{
+    "data": {
+        "name": {
+            "__typename": "Name",
+            "knownFor": {
+                "edges": [
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0114814",
+                                "titleText": {
+                                    "text": "The Usual Suspects",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "The Usual Suspects",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1995,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 8,
+                                    "day": 16,
+                                    "year": 1995,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm1975465472",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1715,
+                                    "width": 1150
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 8.5
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Verbal"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0119488",
+                                "titleText": {
+                                    "text": "L.A. Confidential",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "L.A. Confidential",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1997,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 9,
+                                    "day": 19,
+                                    "year": 1997,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm3227529472",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1246,
+                                    "width": 850
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 8.2
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Jack Vincennes"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0169547",
+                                "titleText": {
+                                    "text": "American Beauty",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "American Beauty",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1999,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 10,
+                                    "day": 1,
+                                    "year": 1999,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2430294272",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1000,
+                                    "width": 675
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 8.3
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Lester Burnham"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0114369",
+                                "titleText": {
+                                    "text": "Se7en",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Se7en",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1995,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 9,
+                                    "day": 22,
+                                    "year": 1995,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm3116368640",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 2815,
+                                    "width": 1801
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 8.6
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "John Doe"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0478087",
+                                "titleText": {
+                                    "text": "21",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "21",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2008,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 3,
+                                    "day": 28,
+                                    "year": 2008,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2843055616",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMjAyNTU5OTcxOV5BMl5BanBnXkFtZTcwMDEyNjM2MQ@@._V1_.jpg",
+                                    "height": 500,
+                                    "width": 357
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.8
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Micky Rosa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0114069",
+                                "titleText": {
+                                    "text": "Outbreak",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Outbreak",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1995,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 3,
+                                    "day": 10,
+                                    "year": 1995,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm782765825",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 2230,
+                                    "width": 1504
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.6
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Casey Schuler"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0363473",
+                                "titleText": {
+                                    "text": "Beyond the Sea",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Beyond the Sea",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2004,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 12,
+                                    "day": 29,
+                                    "year": 2004,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2916325632",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMTY2MzI0ODE3NF5BMl5BanBnXkFtZTYwODI4NDM3._V1_.jpg",
+                                    "height": 504,
+                                    "width": 339
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.7
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Bobby Darin"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0114594",
+                                "titleText": {
+                                    "text": "Swimming with Sharks",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Swimming with Sharks",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1994,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 4,
+                                    "day": 21,
+                                    "year": 1995,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm1483016960",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BOTVjYWM1MWItMzhhMi00OWVhLTlhNTUtZWNiMzcxMzQyOGY2XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 720,
+                                    "width": 500
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Buddy Ackerman"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0104348",
+                                "titleText": {
+                                    "text": "Glengarry Glen Ross",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Glengarry Glen Ross",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1992,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 10,
+                                    "day": 2,
+                                    "year": 1992,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2774475777",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 2260,
+                                    "width": 1491
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.7
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "John Williamson"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0272152",
+                                "titleText": {
+                                    "text": "K-PAX",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "K-PAX",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2001,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 10,
+                                    "day": 26,
+                                    "year": 2001,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm3669568000",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BZWU5MTJiNDMtMmI0Yy00MWRjLTgwZjktODEyY2NmZThhM2EwXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1600,
+                                    "width": 1083
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.4
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Prot"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt1615147",
+                                "titleText": {
+                                    "text": "Margin Call",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Margin Call",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2011,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 9,
+                                    "day": 29,
+                                    "year": 2011,
+                                    "country": {
+                                        "id": "DE"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2395782400",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMjE5NzkyNDI2Nl5BMl5BanBnXkFtZTcwMTYzNDc2Ng@@._V1_.jpg",
+                                    "height": 792,
+                                    "width": 535
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.1
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Sam Rogers"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt1856010",
+                                "titleText": {
+                                    "text": "House of Cards",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "House of Cards",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2013,
+                                    "endYear": 2018
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 2,
+                                    "day": 1,
+                                    "year": 2013,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [
+                                        {
+                                            "id": "internet",
+                                            "text": "internet"
+                                        }
+                                    ],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "tvSeries",
+                                    "text": "TV Series",
+                                    "categories": [
+                                        {
+                                            "id": "tv",
+                                            "text": "TV",
+                                            "value": "tv"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": true,
+                                    "isEpisode": false,
+                                    "isSeries": true,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": "TV Series"
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm919970304",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg",
+                                    "height": 2048,
+                                    "width": 1382
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 8.6
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Francis Underwood"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0119668",
+                                "titleText": {
+                                    "text": "Midnight in the Garden of Good and Evil",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Midnight in the Garden of Good and Evil",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1997,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 11,
+                                    "day": 21,
+                                    "year": 1997,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm856890625",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BNGQzOWM5OTItZDVkMi00YTA3LThiMGUtNTdiZDMwOWVlMjUxXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 2913,
+                                    "width": 1969
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.6
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Jim Williams"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0223897",
+                                "titleText": {
+                                    "text": "Pay It Forward",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "Pay It Forward",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2000,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 10,
+                                    "day": 20,
+                                    "year": 2000,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm1417844992",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BNjI3ODI5NDEwMl5BMl5BanBnXkFtZTYwNDYyMjU3._V1_.jpg",
+                                    "height": 701,
+                                    "width": 475
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.2
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Eugene Simonet"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0120824",
+                                "titleText": {
+                                    "text": "The Shipping News",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "The Shipping News",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2001,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 1,
+                                    "day": 18,
+                                    "year": 2002,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm1305229568",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMzliMTA5MDktMDYyZi00MWY2LWIxMWUtZDg0MWQyZDU5MWE5XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1484,
+                                    "width": 1000
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.7
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Quoyle"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0120768",
+                                "titleText": {
+                                    "text": "The Negotiator",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "The Negotiator",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1998,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 7,
+                                    "day": 29,
+                                    "year": 1998,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2723625216",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BNTBjZDM3NzctOGE2YS00NDZiLTk4ZWMtY2IwOWI5ZTE4ZDc0XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 1500,
+                                    "width": 1000
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.3
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Chris Sabian"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0120623",
+                                "titleText": {
+                                    "text": "A Bug's Life",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "A Bug's Life",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1998,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 11,
+                                    "day": 25,
+                                    "year": 1998,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm2811625984",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BNGI3Mjc1ZjUtYTJhYS00NjBiLTgyYjctODU5NTNlMWJiYjYzXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 800,
+                                    "width": 517
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.2
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Hopper"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0110955",
+                                "titleText": {
+                                    "text": "The Ref",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "The Ref",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1994,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 3,
+                                    "day": 11,
+                                    "year": 1994,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm4063421440",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BODA5MDk1NjUtNTk5ZS00OGVhLThhMDItZTY1ZWY5ZDBiOTZmXkEyXkFqcGc@._V1_.jpg",
+                                    "height": 862,
+                                    "width": 580
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 6.9
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "Lloyd"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0289992",
+                                "titleText": {
+                                    "text": "The Life of David Gale",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "The Life of David Gale",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 2003,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 2,
+                                    "day": 21,
+                                    "year": 2003,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm3757086976",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_.jpg",
+                                    "height": 719,
+                                    "width": 485
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.5
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "David Gale"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "title": {
+                                "__typename": "Title",
+                                "id": "tt0117913",
+                                "titleText": {
+                                    "text": "A Time to Kill",
+                                    "isOriginalTitle": true
+                                },
+                                "originalTitleText": {
+                                    "text": "A Time to Kill",
+                                    "isOriginalTitle": true
+                                },
+                                "releaseYear": {
+                                    "__typename": "YearRange",
+                                    "year": 1996,
+                                    "endYear": null
+                                },
+                                "releaseDate": {
+                                    "__typename": "ReleaseDate",
+                                    "month": 7,
+                                    "day": 24,
+                                    "year": 1996,
+                                    "country": {
+                                        "id": "US"
+                                    },
+                                    "restriction": null,
+                                    "attributes": [],
+                                    "displayableProperty": {
+                                        "qualifiersInMarkdownList": null
+                                    }
+                                },
+                                "titleType": {
+                                    "__typename": "TitleType",
+                                    "id": "movie",
+                                    "text": "Movie",
+                                    "categories": [
+                                        {
+                                            "id": "movie",
+                                            "text": "Movie",
+                                            "value": "movie"
+                                        }
+                                    ],
+                                    "canHaveEpisodes": false,
+                                    "isEpisode": false,
+                                    "isSeries": false,
+                                    "displayableProperty": {
+                                        "value": {
+                                            "plainText": ""
+                                        }
+                                    }
+                                },
+                                "primaryImage": {
+                                    "__typename": "Image",
+                                    "id": "rm1796824833",
+                                    "url": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_.jpg",
+                                    "height": 2260,
+                                    "width": 1519
+                                },
+                                "ratingsSummary": {
+                                    "aggregateRating": 7.5
+                                }
+                            },
+                            "credit": {
+                                "__typename": "Cast",
+                                "category": {
+                                    "id": "actor",
+                                    "text": "Actor"
+                                },
+                                "characters": [
+                                    {
+                                        "name": "D.A. Rufus Buckley"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "status": true,
+    "message": "Successful"
+}

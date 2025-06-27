@@ -1,0 +1,3439 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0124930",
+      "awardNominations": {
+        "total": 23,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0191055",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0018959",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0191076",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Fight"
+              },
+              "notes": {
+                "plainText": "Vs. the \"Uber Immortal\"."
+              },
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0018959",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0198628",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000033",
+                "eventEdition": {
+                  "id": "ee0035929",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000004",
+                    "text": "Academy of Science Fiction, Fantasy & Horror Films, USA"
+                  }
+                },
+                "awardName": "Saturn Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0241315",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007277",
+                "eventEdition": {
+                  "id": "ee0024364",
+                  "year": 2008,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000786",
+                    "text": "Empire Awards, UK"
+                  }
+                },
+                "awardName": "Empire Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0247560",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Motion Picture, Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002871",
+                "eventEdition": {
+                  "id": "ee0030280",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000296",
+                    "text": "Satellite Awards"
+                  }
+                },
+                "awardName": "Golden Satellite Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0293508",
+                      "titleText": {
+                        "text": "The Phantom of the Opera",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Phantom of the Opera",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 21,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3963456512",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDczNzg4OTM3MV5BMl5BanBnXkFtZTcwOTQzMTEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1386
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Phantom of the Opera (2004)",
+                        "plainText": "The Phantom of the Opera (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0296302",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0006840",
+                "eventEdition": {
+                  "id": "ee0022941",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000709",
+                    "text": "Taurus World Stunt Awards"
+                  }
+                },
+                "awardName": "Action Movie Star of the Year"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0303996",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Favorite Action Star"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005123",
+                "eventEdition": {
+                  "id": "ee0041019",
+                  "year": 2010,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000530",
+                    "text": "People's Choice Awards, USA"
+                  }
+                },
+                "awardName": "People's Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0312124",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Screen Couple/Worst Screen Ensemble"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0041031",
+                  "year": 2011,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000098",
+                      "nameText": {
+                        "text": "Jennifer Aniston"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm226134272",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjk1MjIxNjUxNF5BMl5BanBnXkFtZTcwODk2NzM4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 279
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jennifer Aniston",
+                        "plainText": "Jennifer Aniston"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1038919",
+                      "titleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2010,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2010,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm845123072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MjY0MV5BMl5BanBnXkFtZTcwNTA2OTYwMw@@._V1_.jpg",
+                        "height": 1432,
+                        "width": 963
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Bounty Hunter (2010)",
+                        "plainText": "The Bounty Hunter (2010)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0312600",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0041031",
+                  "year": 2011,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1038919",
+                      "titleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2010,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2010,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm845123072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MjY0MV5BMl5BanBnXkFtZTcwNTA2OTYwMw@@._V1_.jpg",
+                        "height": 1432,
+                        "width": 963
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Bounty Hunter (2010)",
+                        "plainText": "The Bounty Hunter (2010)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0340088",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Choice Movie Actor: Romantic Comedy"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0006040",
+                "eventEdition": {
+                  "id": "ee0041107",
+                  "year": 2010,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000644",
+                    "text": "Teen Choice Awards"
+                  }
+                },
+                "awardName": "Teen Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1142988",
+                      "titleText": {
+                        "text": "The Ugly Truth",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Ugly Truth",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2009,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3599993600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM2MTM2OTUwNl5BMl5BanBnXkFtZTcwNTgwNTE0Mg@@._V1_.jpg",
+                        "height": 755,
+                        "width": 508
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Ugly Truth (2009)",
+                        "plainText": "The Ugly Truth (2009)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1038919",
+                      "titleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2010,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2010,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm845123072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MjY0MV5BMl5BanBnXkFtZTcwNTA2OTYwMw@@._V1_.jpg",
+                        "height": 1432,
+                        "width": 963
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Bounty Hunter (2010)",
+                        "plainText": "The Bounty Hunter (2010)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0352447",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Voice Acting in an Animated Feature Production"
+              },
+              "notes": {
+                "plainText": "For playing \"Stoick\"."
+              },
+              "award": {
+                "id": "aw0000294",
+                "eventEdition": {
+                  "id": "ee0040411",
+                  "year": 2011,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000032",
+                    "text": "Annie Awards"
+                  }
+                },
+                "awardName": "Annie"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0892769",
+                      "titleText": {
+                        "text": "How to Train Your Dragon",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "How to Train Your Dragon",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2010,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 26,
+                        "year": 2010,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2210040832",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+                        "height": 1665,
+                        "width": 1119
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "How to Train Your Dragon (2010)",
+                        "plainText": "How to Train Your Dragon (2010)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0544206",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Music, Adapted Song"
+              },
+              "notes": {
+                "plainText": "For the song \"The Music of the Night\"."
+              },
+              "award": {
+                "id": "aw0019185",
+                "eventEdition": {
+                  "id": "ee0047897",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0002704",
+                    "text": "Online Film & Television Association"
+                  }
+                },
+                "awardName": "OFTA Film Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0515908",
+                      "nameText": {
+                        "text": "Andrew Lloyd Webber"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2878258688",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTgyNDQxMl5BMl5BanBnXkFtZTcwNjU4NTk1NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1370
+                      }
+                    },
+                    "note": {
+                      "plainText": "(music by)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Andrew Lloyd Webber (music by)",
+                        "plainText": "Andrew Lloyd Webber (music by)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0366193",
+                      "nameText": {
+                        "text": "Charles Hart"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(lyrics by)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Charles Hart (lyrics by)",
+                        "plainText": "Charles Hart (lyrics by)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0830206",
+                      "nameText": {
+                        "text": "Richard Stilgoe"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": {
+                      "plainText": "(lyrics by)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Richard Stilgoe (lyrics by)",
+                        "plainText": "Richard Stilgoe (lyrics by)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": {
+                      "plainText": "(performed by)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler (performed by)",
+                        "plainText": "Gerard Butler (performed by)"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0293508",
+                      "titleText": {
+                        "text": "The Phantom of the Opera",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Phantom of the Opera",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 21,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3963456512",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDczNzg4OTM3MV5BMl5BanBnXkFtZTcwOTQzMTEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1386
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Phantom of the Opera (2004)",
+                        "plainText": "The Phantom of the Opera (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": [
+                "The Music of the Night"
+              ]
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0649694",
+              "isWinner": false,
+              "winningRank": 2,
+              "category": {
+                "text": "Breakthrough Performance of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0023347",
+                "eventEdition": {
+                  "id": "ee0057099",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0003023",
+                    "text": "Golden Schmoes Awards"
+                  }
+                },
+                "awardName": "Golden Schmoes"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0658876",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Vocal Ensemble in a Feature Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0023262",
+                "eventEdition": {
+                  "id": "ee0055942",
+                  "year": 2015,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0003070",
+                    "text": "Behind the Voice Actors Awards"
+                  }
+                },
+                "awardName": "BTVA Feature Film Voice Acting Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0059431",
+                      "nameText": {
+                        "text": "Jay Baruchel"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2699410176",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM5MjY0MzU0OV5BMl5BanBnXkFtZTcwOTE0NDA2NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1508
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jay Baruchel",
+                        "plainText": "Jay Baruchel"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000949",
+                      "nameText": {
+                        "text": "Cate Blanchett"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm365480448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1419
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cate Blanchett",
+                        "plainText": "Cate Blanchett"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005023",
+                      "nameText": {
+                        "text": "Djimon Hounsou"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm263554048",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_.jpg",
+                        "height": 400,
+                        "width": 295
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Djimon Hounsou",
+                        "plainText": "Djimon Hounsou"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1065229",
+                      "nameText": {
+                        "text": "America Ferrera"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2991040768",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDUzOTkxNF5BMl5BanBnXkFtZTcwNjMwNjk0OA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1413
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "America Ferrera",
+                        "plainText": "America Ferrera"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1325419",
+                      "nameText": {
+                        "text": "Kristen Wiig"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1883141121",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjU0OTA3NzAtYWNlMi00MWZhLThkNWQtZWM5MTdhOTg1NzhiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 4892,
+                        "width": 3262
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kristen Wiig",
+                        "plainText": "Kristen Wiig"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm2554352",
+                      "nameText": {
+                        "text": "T.J. Miller"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2909766656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzI0NTEwMF5BMl5BanBnXkFtZTcwMjk4MDkxNA@@._V1_.jpg",
+                        "height": 400,
+                        "width": 278
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "T.J. Miller",
+                        "plainText": "T.J. Miller"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1706767",
+                      "nameText": {
+                        "text": "Jonah Hill"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4139364608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+                        "height": 541,
+                        "width": 460
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jonah Hill",
+                        "plainText": "Jonah Hill"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm2395586",
+                      "nameText": {
+                        "text": "Christopher Mintz-Plasse"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3444999680",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQyNjUzMDk5N15BMl5BanBnXkFtZTcwNzk0Nzk5Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 295
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christopher Mintz-Plasse",
+                        "plainText": "Christopher Mintz-Plasse"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272401",
+                      "nameText": {
+                        "text": "Craig Ferguson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1034988032",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDYxNDM0OF5BMl5BanBnXkFtZTcwNDg4Mjc5Nw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1501
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Craig Ferguson",
+                        "plainText": "Craig Ferguson"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1646971",
+                      "titleText": {
+                        "text": "How to Train Your Dragon 2",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "How to Train Your Dragon 2",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2014,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 13,
+                        "year": 2014,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2131480064",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1382
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "How to Train Your Dragon 2 (2014)",
+                        "plainText": "How to Train Your Dragon 2 (2014)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0762950",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Foreign Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0031709",
+                "eventEdition": {
+                  "id": "ee0061493",
+                  "year": 2011,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0003647",
+                    "text": "Yoga Awards"
+                  }
+                },
+                "awardName": "Yoga Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1038919",
+                      "titleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Bounty Hunter",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2010,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 19,
+                        "year": 2010,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm845123072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MjY0MV5BMl5BanBnXkFtZTcwNTA2OTYwMw@@._V1_.jpg",
+                        "height": 1432,
+                        "width": 963
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Bounty Hunter (2010)",
+                        "plainText": "The Bounty Hunter (2010)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1197624",
+                      "titleText": {
+                        "text": "Law Abiding Citizen",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Law Abiding Citizen",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2009,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 16,
+                        "year": 2009,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2776932353",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDFjNzM2NzMtNTkxZi00ZGFmLTkyZGMtZWQ3ZjMwZDc5NDExXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1013
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Law Abiding Citizen (2009)",
+                        "plainText": "Law Abiding Citizen (2009)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0799115",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best International Actor"
+              },
+              "notes": {
+                "plainText": "For his body of work."
+              },
+              "award": {
+                "id": "aw0002824",
+                "eventEdition": {
+                  "id": "ee0059226",
+                  "year": 2016,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000290",
+                    "text": "Golden Camera, Germany"
+                  }
+                },
+                "awardName": "Golden Camera"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0808379",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Worst Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0063606",
+                  "year": 2017,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt2404233",
+                      "titleText": {
+                        "text": "Gods of Egypt",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Gods of Egypt",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2016,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 26,
+                        "year": 2016,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1856038656",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_.jpg",
+                        "height": 1500,
+                        "width": 972
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gods of Egypt (2016)",
+                        "plainText": "Gods of Egypt (2016)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt3300542",
+                      "titleText": {
+                        "text": "London Has Fallen",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "London Has Fallen",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2016,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 4,
+                        "year": 2016,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2285037312",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTY1ODY2MTgwM15BMl5BanBnXkFtZTgwOTY3Nzc3NzE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1381
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "London Has Fallen (2016)",
+                        "plainText": "London Has Fallen (2016)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0832568",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Foreign Actor of the Decade"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0037171",
+                "eventEdition": {
+                  "id": "ee0064286",
+                  "year": 2014,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0004399",
+                    "text": "Russian National Movie Awards"
+                  }
+                },
+                "awardName": "Georges Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0850613",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Foreign Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0037171",
+                "eventEdition": {
+                  "id": "ee0065317",
+                  "year": 2010,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0004399",
+                    "text": "Russian National Movie Awards"
+                  }
+                },
+                "awardName": "Georges Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an1422261",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Fantasy Hero"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0015967",
+                "eventEdition": {
+                  "id": "ee0124987",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0002006",
+                    "text": "Scream Awards"
+                  }
+                },
+                "awardName": "Scream Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0416449",
+                      "titleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "300",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 9,
+                        "year": 2007,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1847235072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+                        "height": 2880,
+                        "width": 1944
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "300 (2006)",
+                        "plainText": "300 (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an1472324",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0060893",
+                "eventEdition": {
+                  "id": "ee0103882",
+                  "year": 2018,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0006495",
+                    "text": "National Film and Television Awards, USA"
+                  }
+                },
+                "awardName": "National Film and Television Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt1259528",
+                      "titleText": {
+                        "text": "Den of Thieves",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Den of Thieves",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2018,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 19,
+                        "year": 2018,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm91052800",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_.jpg",
+                        "height": 800,
+                        "width": 540
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Den of Thieves (2018)",
+                        "plainText": "Den of Thieves (2018)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an1984712",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Outstanding Animation Cast - Motion Picture - Best Voiceover"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0024172",
+                "eventEdition": {
+                  "id": "ee0112415",
+                  "year": 2019,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0003140",
+                    "text": "Voice Arts Awards"
+                  }
+                },
+                "awardName": "Voice Arts Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0059431",
+                      "nameText": {
+                        "text": "Jay Baruchel"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2699410176",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTM5MjY0MzU0OV5BMl5BanBnXkFtZTcwOTE0NDA2NA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1508
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jay Baruchel",
+                        "plainText": "Jay Baruchel"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1065229",
+                      "nameText": {
+                        "text": "America Ferrera"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2991040768",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDUzOTkxNF5BMl5BanBnXkFtZTcwNjMwNjk0OA@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1413
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "America Ferrera",
+                        "plainText": "America Ferrera"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000719",
+                      "nameText": {
+                        "text": "F. Murray Abraham"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2590712833",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjUxMDFjMTUtNGJjYy00ZGFhLWEyZGYtZTg1NjdjMWU0NmY4XkEyXkFqcGc@._V1_.jpg",
+                        "height": 640,
+                        "width": 427
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "F. Murray Abraham",
+                        "plainText": "F. Murray Abraham"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000949",
+                      "nameText": {
+                        "text": "Cate Blanchett"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm365480448",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1419
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cate Blanchett",
+                        "plainText": "Cate Blanchett"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0272401",
+                      "nameText": {
+                        "text": "Craig Ferguson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1034988032",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDYxNDM0OF5BMl5BanBnXkFtZTcwNDg4Mjc5Nw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1501
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Craig Ferguson",
+                        "plainText": "Craig Ferguson"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1706767",
+                      "nameText": {
+                        "text": "Jonah Hill"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm4139364608",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+                        "height": 541,
+                        "width": 460
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jonah Hill",
+                        "plainText": "Jonah Hill"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm2395586",
+                      "nameText": {
+                        "text": "Christopher Mintz-Plasse"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3444999680",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQyNjUzMDk5N15BMl5BanBnXkFtZTcwNzk0Nzk5Mw@@._V1_.jpg",
+                        "height": 400,
+                        "width": 295
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Christopher Mintz-Plasse",
+                        "plainText": "Christopher Mintz-Plasse"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1325419",
+                      "nameText": {
+                        "text": "Kristen Wiig"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1883141121",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYjU0OTA3NzAtYWNlMi00MWZhLThkNWQtZWM5MTdhOTg1NzhiXkEyXkFqcGc@._V1_.jpg",
+                        "height": 4892,
+                        "width": 3262
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kristen Wiig",
+                        "plainText": "Kristen Wiig"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm3229685",
+                      "nameText": {
+                        "text": "Kit Harington"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm94420224",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTA2NTI0NjYxMTBeQTJeQWpwZ15BbWU3MDIxMjgyNzY@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kit Harington",
+                        "plainText": "Kit Harington"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm5004187",
+                      "nameText": {
+                        "text": "Justin Rupple"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2929397505",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjU1ZmFkMmItMmNlNi00NjdmLWE0OGUtYWUxM2VjZTNmMTRlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 4032,
+                        "width": 3024
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Justin Rupple",
+                        "plainText": "Justin Rupple"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": [
+                  {
+                    "__typename": "AwardCompany",
+                    "company": {
+                      "companyText": {
+                        "text": "DreamWorks Animation"
+                      }
+                    },
+                    "note": {
+                      "plainText": "(production company)"
+                    },
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "DreamWorks Animation (production company)",
+                        "plainText": "DreamWorks Animation (production company)"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt2386490",
+                      "titleText": {
+                        "text": "How to Train Your Dragon: The Hidden World",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "How to Train Your Dragon: The Hidden World",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2019,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 22,
+                        "year": 2019,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3031449600",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1293
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "How to Train Your Dragon: The Hidden World (2019)",
+                        "plainText": "How to Train Your Dragon: The Hidden World (2019)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an1993175",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0013556",
+                "eventEdition": {
+                  "id": "ee0040329",
+                  "year": 2004,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001243",
+                    "text": "Capri, Hollywood"
+                  }
+                },
+                "awardName": "Capri Breakout Actor Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0124930",
+                      "nameText": {
+                        "text": "Gerard Butler"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1194363136",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 285
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Gerard Butler",
+                        "plainText": "Gerard Butler"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0377752",
+                      "titleText": {
+                        "text": "Dear Frankie",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Dear Frankie",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2004,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 4,
+                        "day": 15,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm374656769",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZDQ5MDI1YWMtNmRiMy00ODY1LTllOGMtMjdmOGM0Mjg2YzEwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1600,
+                        "width": 1200
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dear Frankie (2004)",
+                        "plainText": "Dear Frankie (2004)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": false,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMTkxMDU1",
+          "endCursor": "YW4xOTkzMTc1"
+        }
+      }
+    }
+  }
+}
