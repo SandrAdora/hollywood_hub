@@ -1,0 +1,3313 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000158",
+      "awardNominations": {
+        "total": 307,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021410",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0027355",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0021625",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008972",
+                "eventEdition": {
+                  "id": "ee0033365",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001104",
+                    "text": "Phoenix Film Critics Society Awards"
+                  }
+                },
+                "awardName": "PFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0257044",
+                      "titleText": {
+                        "text": "Road to Perdition",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Road to Perdition",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 12,
+                        "year": 2002,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1939365632",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjMyYjMyMzktMjlhZC00ZTZkLTkzMWQtZmEwMjdjNzJkM2RlXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1013
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Road to Perdition (2002)",
+                        "plainText": "Road to Perdition (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022063",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0032890",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022126",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0028355",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120815",
+                      "titleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1924732160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1177,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Saving Private Ryan (1998)",
+                        "plainText": "Saving Private Ryan (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022246",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0034318",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0024473",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005801",
+                "eventEdition": {
+                  "id": "ee0029755",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000620",
+                    "text": "Southeastern Film Critics Association Awards"
+                  }
+                },
+                "awardName": "SEFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0026416",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003827",
+                "eventEdition": {
+                  "id": "ee0034696",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000403",
+                    "text": "London Critics Circle Film Awards"
+                  }
+                },
+                "awardName": "ALFS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120815",
+                      "titleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1924732160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1177,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Saving Private Ryan (1998)",
+                        "plainText": "Saving Private Ryan (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0027279",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003866",
+                "eventEdition": {
+                  "id": "ee0040855",
+                  "year": 1988,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000407",
+                    "text": "Los Angeles Film Critics Association Awards"
+                  }
+                },
+                "awardName": "LAFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0094737",
+                      "titleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 3,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3914549760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzE3ZTc2ZDgtMzQ4MS00NjEyLWJkMDYtZmMzZmY5ODJhMDdmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1024
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Big (1988)",
+                        "plainText": "Big (1988)"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0095927",
+                      "titleText": {
+                        "text": "Punchline",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Punchline",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 10,
+                        "day": 7,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2541101056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzA3YjYwM2MtMzAzMS00OTFmLTg0YzMtOTY0ZDY3NGM0M2JjXkEyXkFqcGc@._V1_.jpg",
+                        "height": 900,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Punchline (1988)",
+                        "plainText": "Punchline (1988)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0030011",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003653",
+                "eventEdition": {
+                  "id": "ee0024404",
+                  "year": 2000,
+                  "instanceWithinYear": 2,
+                  "event": {
+                    "id": "ev0000392",
+                    "text": "Las Vegas Film Critics Society Awards"
+                  }
+                },
+                "awardName": "Sierra Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033192",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0003575",
+                "eventEdition": {
+                  "id": "ee0020273",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000383",
+                    "text": "Kansas City Film Critics Circle Awards"
+                  }
+                },
+                "awardName": "KCFCC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035107",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0024867",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120815",
+                      "titleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1924732160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1177,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Saving Private Ryan (1998)",
+                        "plainText": "Saving Private Ryan (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0035223",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004921",
+                "eventEdition": {
+                  "id": "ee0035577",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000511",
+                    "text": "Online Film Critics Society Awards"
+                  }
+                },
+                "awardName": "OFCS Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0040787",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004729",
+                "eventEdition": {
+                  "id": "ee0040985",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000484",
+                    "text": "New York Film Critics Circle Awards"
+                  }
+                },
+                "awardName": "NYFCC Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0041844",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004581",
+                "eventEdition": {
+                  "id": "ee0032939",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000464",
+                    "text": "National Board of Review, USA"
+                  }
+                },
+                "awardName": "NBR Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0049040",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040372",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0107818",
+                      "titleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 14,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3014133760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Philadelphia (1993)",
+                        "plainText": "Philadelphia (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0050795",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040377",
+                  "year": 2001,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0162222",
+                      "titleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Cast Away",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2000,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 22,
+                        "year": 2000,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm381427456",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 859,
+                        "width": 580
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Cast Away (2000)",
+                        "plainText": "Cast Away (2000)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0053190",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040347",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0054303",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040368",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0094737",
+                      "titleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 3,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3914549760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzE3ZTc2ZDgtMzQ4MS00NjEyLWJkMDYtZmMzZmY5ODJhMDdmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1024
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Big (1988)",
+                        "plainText": "Big (1988)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0057180",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040376",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120815",
+                      "titleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1924732160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1177,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Saving Private Ryan (1998)",
+                        "plainText": "Saving Private Ryan (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0059956",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000687",
+                "eventEdition": {
+                  "id": "ee0037128",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000091",
+                    "text": "Berlin International Film Festival"
+                  }
+                },
+                "awardName": "Silver Berlin Bear"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0107818",
+                      "titleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 14,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3014133760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Philadelphia (1993)",
+                        "plainText": "Philadelphia (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0061971",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0021161",
+                  "year": 1989,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0094737",
+                      "titleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Big",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1988,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 3,
+                        "year": 1988,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3914549760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzE3ZTc2ZDgtMzQ4MS00NjEyLWJkMDYtZmMzZmY5ODJhMDdmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1024
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Big (1988)",
+                        "plainText": "Big (1988)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062304",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0037126",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0107818",
+                      "titleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Philadelphia",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 1,
+                        "day": 14,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3014133760",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Philadelphia (1993)",
+                        "plainText": "Philadelphia (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062316",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0037126",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0108160",
+                      "titleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Sleepless in Seattle",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1993,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 25,
+                        "year": 1993,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2444975104",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1431,
+                        "width": 968
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Sleepless in Seattle (1993)",
+                        "plainText": "Sleepless in Seattle (1993)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063621",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040711",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0109830",
+                      "titleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Forrest Gump",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1994,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 6,
+                        "year": 1994,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1954748672",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 809,
+                        "width": 558
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Forrest Gump (1994)",
+                        "plainText": "Forrest Gump (1994)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0066628",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0023404",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000158",
+                      "nameText": {
+                        "text": "Tom Hanks"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3040001536",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1417
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tom Hanks",
+                        "plainText": "Tom Hanks"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120815",
+                      "titleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Saving Private Ryan",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1998,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 24,
+                        "year": 1998,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1924732160",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1177,
+                        "width": 800
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Saving Private Ryan (1998)",
+                        "plainText": "Saving Private Ryan (1998)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIxNDEw",
+          "endCursor": "YW4wMDY2NjI4"
+        }
+      }
+    }
+  }
+}

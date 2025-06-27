@@ -1,0 +1,3205 @@
+{
+  "data": {
+    "name": {
+      "id": "nm0000226",
+      "awardNominations": {
+        "total": 284,
+        "edges": [
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020250",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Screen Couple"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000177",
+                      "nameText": {
+                        "text": "Kevin Kline"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2555021568",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxMjcxMzMzMV5BMl5BanBnXkFtZTcwNjQzOTQ4Mg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 267
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kevin Kline",
+                        "plainText": "Kevin Kline"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120891",
+                      "titleText": {
+                        "text": "Wild Wild West",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Wild Wild West",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1573468416",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGI1OWJjMWUtOTNiNC00N2RlLWE3OTYtM2FmOGUzNTQxNzk2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Wild Wild West (1999)",
+                        "plainText": "Wild Wild West (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0020275",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Worst Original Song"
+              },
+              "notes": {
+                "plainText": "For the song \"Wild Wild West\"."
+              },
+              "award": {
+                "id": "aw0005298",
+                "eventEdition": {
+                  "id": "ee0036590",
+                  "year": 2000,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000558",
+                    "text": "Razzie Awards"
+                  }
+                },
+                "awardName": "Razzie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005567",
+                      "nameText": {
+                        "text": "Stevie Wonder"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1198693120",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOTk5NzQwOTU4OF5BMl5BanBnXkFtZTYwMTk3MTk0._V1_.jpg",
+                        "height": 400,
+                        "width": 281
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Stevie Wonder",
+                        "plainText": "Stevie Wonder"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0223092",
+                      "nameText": {
+                        "text": "Kool Moe Dee"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Kool Moe Dee",
+                        "plainText": "Kool Moe Dee"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120891",
+                      "titleText": {
+                        "text": "Wild Wild West",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Wild Wild West",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1999,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 6,
+                        "day": 30,
+                        "year": 1999,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1573468416",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOGI1OWJjMWUtOTNiNC00N2RlLWE3OTYtM2FmOGUzNTQxNzk2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Wild Wild West (1999)",
+                        "plainText": "Wild Wild West (1999)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": [
+                "Wild Wild West"
+              ]
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0022603",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001583",
+                "eventEdition": {
+                  "id": "ee0030761",
+                  "year": 2006,
+                  "instanceWithinYear": 2,
+                  "event": {
+                    "id": "ev0000163",
+                    "text": "Chicago Film Critics Association Awards"
+                  }
+                },
+                "awardName": "CFCA Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0033782",
+              "isWinner": false,
+              "winningRank": 3,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0040516",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0248667",
+                      "titleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 25,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2049649920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhNWUwMGItZTg1My00Njg1LTllMjctNzQzMjIzODUyZDhmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 666
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ali (2001)",
+                        "plainText": "Ali (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0034179",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0001152",
+                "eventEdition": {
+                  "id": "ee0035044",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000133",
+                    "text": "Critics Choice Awards"
+                  }
+                },
+                "awardName": "Critics Choice Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0055383",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040349",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0248667",
+                      "titleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 25,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2049649920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhNWUwMGItZTg1My00Njg1LTllMjctNzQzMjIzODUyZDhmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 666
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ali (2001)",
+                        "plainText": "Ali (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0056683",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0000016",
+                "eventEdition": {
+                  "id": "ee0040382",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000003",
+                    "text": "Academy Awards, USA"
+                  }
+                },
+                "awardName": "Oscar"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062187",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Television Series - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0028259",
+                  "year": 1993,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0098800",
+                      "titleText": {
+                        "text": "The Fresh Prince of Bel-Air",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Fresh Prince of Bel-Air",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1990,
+                        "endYear": 1996
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 10,
+                        "year": 1990,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2154047489",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzhlMDVmNTgtZjkwOS00NGYwLTllMWEtYjY2OWNkMDliMTAyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Fresh Prince of Bel-Air (1990)",
+                        "plainText": "The Fresh Prince of Bel-Air (1990)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0062374",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Television Series - Comedy or Musical"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0037126",
+                  "year": 1994,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0098800",
+                      "titleText": {
+                        "text": "The Fresh Prince of Bel-Air",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Fresh Prince of Bel-Air",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1990,
+                        "endYear": 1996
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 9,
+                        "day": 10,
+                        "year": 1990,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "tvSeries",
+                        "text": "TV Series",
+                        "categories": [
+                          {
+                            "id": "tv",
+                            "text": "TV",
+                            "value": "tv"
+                          }
+                        ],
+                        "canHaveEpisodes": true,
+                        "isEpisode": false,
+                        "isSeries": true,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": "TV Series"
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2154047489",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzhlMDVmNTgtZjkwOS00NGYwLTllMWEtYjY2OWNkMDliMTAyXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Fresh Prince of Bel-Air (1990)",
+                        "plainText": "The Fresh Prince of Bel-Air (1990)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0063392",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0040713",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0248667",
+                      "titleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Ali",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2001,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 25,
+                        "year": 2001,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2049649920",
+                        "url": "https://m.media-amazon.com/images/M/MV5BODVhNWUwMGItZTg1My00Njg1LTllMjctNzQzMjIzODUyZDhmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1000,
+                        "width": 666
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Ali (2001)",
+                        "plainText": "Ali (2001)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0065934",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in a Motion Picture - Drama"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0002837",
+                "eventEdition": {
+                  "id": "ee0037023",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000292",
+                    "text": "Golden Globes, USA"
+                  }
+                },
+                "awardName": "Golden Globe"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0072281",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Motion Picture"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0010090",
+                "eventEdition": {
+                  "id": "ee0021119",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0001401",
+                    "text": "Black Movie Awards"
+                  }
+                },
+                "awardName": "Black Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0042356",
+                      "nameText": {
+                        "text": "Dallas Austin"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1200658688",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQxMDA0MzkxNl5BMl5BanBnXkFtZTYwMTc1NzU3._V1_.jpg",
+                        "height": 610,
+                        "width": 450
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Dallas Austin",
+                        "plainText": "Dallas Austin"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0914418",
+                      "nameText": {
+                        "text": "Tionne 'T-Boz' Watkins"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2452331008",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNzM5MDQxMF5BMl5BanBnXkFtZTYwMDcwMTYz._V1_.jpg",
+                        "height": 400,
+                        "width": 283
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tionne 'T-Boz' Watkins",
+                        "plainText": "Tionne 'T-Boz' Watkins"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1140091",
+                      "nameText": {
+                        "text": "Jody Gerson"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3611814657",
+                        "url": "https://m.media-amazon.com/images/M/MV5BOWE4YTZlN2ItNDQ2MS00OTU0LWExZDctMzJiZDJjNTQyNTMzXkEyXkFqcGc@._V1_.jpg",
+                        "height": 567,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jody Gerson",
+                        "plainText": "Jody Gerson"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0489876",
+                      "nameText": {
+                        "text": "James Lassiter"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "James Lassiter",
+                        "plainText": "James Lassiter"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0466856",
+                      "titleText": {
+                        "text": "ATL",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "ATL",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 3,
+                        "day": 31,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm286290432",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZDQxN2Y3NDItZjQ5My00ZTI2LWI0MGQtZjUwNTZiZTI1NzZmXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1440,
+                        "width": 960
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "ATL (2006)",
+                        "plainText": "ATL (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0073155",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008272",
+                "eventEdition": {
+                  "id": "ee0022282",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000957",
+                    "text": "Black Reel Awards"
+                  }
+                },
+                "awardName": "Black Reel"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0073171",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008272",
+                "eventEdition": {
+                  "id": "ee0022282",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000957",
+                    "text": "Black Reel Awards"
+                  }
+                },
+                "awardName": "Black Reel"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm1151819",
+                      "nameText": {
+                        "text": "Teddy Zee"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm849197056",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNjkwOTE0OTMxMF5BMl5BanBnXkFtZTcwMzQ2NTI5NA@@._V1_.jpg",
+                        "height": 4288,
+                        "width": 2848
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Teddy Zee",
+                        "plainText": "Teddy Zee"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0005494",
+                      "nameText": {
+                        "text": "Steve Tisch"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3169032192",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMjE4OTQ3ODU0NF5BMl5BanBnXkFtZTYwMDcwMDY1._V1_.jpg",
+                        "height": 400,
+                        "width": 255
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Steve Tisch",
+                        "plainText": "Steve Tisch"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0489876",
+                      "nameText": {
+                        "text": "James Lassiter"
+                      },
+                      "primaryImage": null
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "James Lassiter",
+                        "plainText": "James Lassiter"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0085542",
+                      "nameText": {
+                        "text": "Todd Black"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm974297856",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MzE4OTU1N15BMl5BanBnXkFtZTYwMTUzOTQ1._V1_.jpg",
+                        "height": 400,
+                        "width": 313
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Todd Black",
+                        "plainText": "Todd Black"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0089820",
+                      "nameText": {
+                        "text": "Jason Blumenthal"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2846931201",
+                        "url": "https://m.media-amazon.com/images/M/MV5BYzdmNTFlNGQtMTNhMS00YmY2LTkxYjUtNGFlODA5MmM2NGQ2XkEyXkFqcGc@._V1_.jpg",
+                        "height": 4495,
+                        "width": 3591
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Jason Blumenthal",
+                        "plainText": "Jason Blumenthal"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0075142",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Actor"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0008272",
+                "eventEdition": {
+                  "id": "ee0041340",
+                  "year": 2006,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000957",
+                    "text": "Black Reel Awards"
+                  }
+                },
+                "awardName": "Black Reel"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0386588",
+                      "titleText": {
+                        "text": "Hitch",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Hitch",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2005,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 2,
+                        "day": 11,
+                        "year": 2005,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm3787820288",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1350
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Hitch (2005)",
+                        "plainText": "Hitch (2005)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103524",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Male Star of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0020458",
+                  "year": 2002,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103625",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Actor of the Year"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0028104",
+                  "year": 1999,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103714",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "International Box Office Achievement"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005699",
+                "eventEdition": {
+                  "id": "ee0033596",
+                  "year": 1997,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "Special Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0103729",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Male Star of Tomorrow"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005698",
+                "eventEdition": {
+                  "id": "ee0033190",
+                  "year": 1995,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000608",
+                    "text": "ShoWest Convention, USA"
+                  }
+                },
+                "awardName": "ShoWest Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0106605",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Performance by an Actor in an Effects Film"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0007701",
+                "eventEdition": {
+                  "id": "ee0026573",
+                  "year": 2003,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000864",
+                    "text": "Visual Effects Society Awards"
+                  }
+                },
+                "awardName": "VES Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0120912",
+                      "titleText": {
+                        "text": "Men in Black II",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Men in Black II",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2002,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 3,
+                        "year": 2002,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm757635072",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_.jpg",
+                        "height": 890,
+                        "width": 600
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Men in Black II (2002)",
+                        "plainText": "Men in Black II (2002)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0118844",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Outstanding Performance by a Male Actor in a Leading Role"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0005620",
+                "eventEdition": {
+                  "id": "ee0041069",
+                  "year": 2007,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000598",
+                    "text": "Screen Actors Guild Awards"
+                  }
+                },
+                "awardName": "Actor"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0454921",
+                      "titleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "The Pursuit of Happyness",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 2006,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 12,
+                        "day": 15,
+                        "year": 2006,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2553318400",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1378
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "The Pursuit of Happyness (2006)",
+                        "plainText": "The Pursuit of Happyness (2006)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0119073",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": null,
+              "notes": null,
+              "award": {
+                "id": "aw0001567",
+                "eventEdition": {
+                  "id": "ee0023453",
+                  "year": 2005,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000157",
+                    "text": "César Awards, France"
+                  }
+                },
+                "awardName": "Honorary César"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": null
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185415",
+              "isWinner": true,
+              "winningRank": 1,
+              "category": {
+                "text": "Best Movie Song"
+              },
+              "notes": {
+                "plainText": "For \"Men In Black\"."
+              },
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0020141",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119654",
+                      "titleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 2,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2364027904",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Men in Black (1997)",
+                        "plainText": "Men in Black (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185424",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best Comedic Performance"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0020141",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119654",
+                      "titleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 2,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2364027904",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Men in Black (1997)",
+                        "plainText": "Men in Black (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "AwardNomination",
+              "id": "an0185429",
+              "isWinner": false,
+              "winningRank": null,
+              "category": {
+                "text": "Best On-Screen Duo"
+              },
+              "notes": null,
+              "award": {
+                "id": "aw0004435",
+                "eventEdition": {
+                  "id": "ee0020141",
+                  "year": 1998,
+                  "instanceWithinYear": 1,
+                  "event": {
+                    "id": "ev0000453",
+                    "text": "MTV Movie + TV Awards"
+                  }
+                },
+                "awardName": "MTV Movie Award"
+              },
+              "awardedEntities": {
+                "__typename": "AwardedNames",
+                "awardNames": [
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000226",
+                      "nameText": {
+                        "text": "Will Smith"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm1002342912",
+                        "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+                        "height": 400,
+                        "width": 276
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Will Smith",
+                        "plainText": "Will Smith"
+                      }
+                    }
+                  },
+                  {
+                    "__typename": "AwardName",
+                    "name": {
+                      "__typename": "Name",
+                      "id": "nm0000169",
+                      "nameText": {
+                        "text": "Tommy Lee Jones"
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm118137344",
+                        "url": "https://m.media-amazon.com/images/M/MV5BMTkyNjc4MDc0OV5BMl5BanBnXkFtZTcwOTc5OTUwOQ@@._V1_.jpg",
+                        "height": 2048,
+                        "width": 1363
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Tommy Lee Jones",
+                        "plainText": "Tommy Lee Jones"
+                      }
+                    }
+                  }
+                ],
+                "secondaryAwardCompanies": null,
+                "secondaryAwardTitles": [
+                  {
+                    "__typename": "AwardTitle",
+                    "title": {
+                      "__typename": "Title",
+                      "id": "tt0119654",
+                      "titleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "originalTitleText": {
+                        "text": "Men in Black",
+                        "isOriginalTitle": true
+                      },
+                      "releaseYear": {
+                        "__typename": "YearRange",
+                        "year": 1997,
+                        "endYear": null
+                      },
+                      "releaseDate": {
+                        "__typename": "ReleaseDate",
+                        "month": 7,
+                        "day": 2,
+                        "year": 1997,
+                        "country": {
+                          "id": "US"
+                        },
+                        "restriction": null,
+                        "attributes": [],
+                        "displayableProperty": {
+                          "qualifiersInMarkdownList": null
+                        }
+                      },
+                      "titleType": {
+                        "__typename": "TitleType",
+                        "id": "movie",
+                        "text": "Movie",
+                        "categories": [
+                          {
+                            "id": "movie",
+                            "text": "Movie",
+                            "value": "movie"
+                          }
+                        ],
+                        "canHaveEpisodes": false,
+                        "isEpisode": false,
+                        "isSeries": false,
+                        "displayableProperty": {
+                          "value": {
+                            "plainText": ""
+                          }
+                        }
+                      },
+                      "primaryImage": {
+                        "__typename": "Image",
+                        "id": "rm2364027904",
+                        "url": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_.jpg",
+                        "height": 1500,
+                        "width": 1000
+                      }
+                    },
+                    "note": null,
+                    "displayableProperty": {
+                      "__typename": "DisplayableAwardedEntity",
+                      "value": {
+                        "id": "Men in Black (1997)",
+                        "plainText": "Men in Black (1997)"
+                      }
+                    }
+                  }
+                ]
+              },
+              "forEpisodes": null,
+              "forSongTitles": null
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "hasNextPage": true,
+          "hasPreviousPage": false,
+          "startCursor": "YW4wMDIwMjUw",
+          "endCursor": "YW4wMTg1NDI5"
+        }
+      }
+    }
+  }
+}
