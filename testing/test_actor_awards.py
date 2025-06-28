@@ -2,9 +2,6 @@ import unittest
 
 from module_applayer import get_actor_awards
 
-
-import unittest
-
 class TestActorAward(unittest.TestCase):
 
     def test_get_actor_awards(self):
