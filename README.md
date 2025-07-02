@@ -52,7 +52,7 @@ hollywood_hub/
 
    1. ## Development Environment Preparation 
       
-      - Ensure that yu have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
+      - Ensure that you have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
       -  Install Python 3.13 or later version, along with pip, to proceed with installing *modules*/*packages* from the *requirements* file
      
    2. ## Virtual Environment Configuration 
@@ -71,7 +71,7 @@ hollywood_hub/
             ~. INFO:     Started server process [24540] # Or your port number
             INFO:     Waiting for application startup.
             INFO:     Application startup complete.
-            INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+            INFO:     Uvicorn running on http://127.0.0.1:8000
 
         2.  Open the *applayer.ipynb*  and execute all its cells. Make sure  all cells are ticked green and there is a connection to the application. You should see this info or atleast no errors. 
         Note: the output below only appear ones when starting this project:
