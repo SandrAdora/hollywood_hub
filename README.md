@@ -52,8 +52,8 @@ hollywood_hub/
 
    1. ## Development Environment Preparation 
       
-      1.1. Ensure that you have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
-      1.2. Install Python 3.13 or later version, along with pip, to proceed with installing *modules*/*packages* from the *requirements* file
+         1.1 Ensure that you have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
+         1.2. Install Python 3.13 or later version, along with pip, to proceed with installing *modules*/*packages* from the *requirements* file
      
    2. ## Virtual Environment Configuration 
       
@@ -95,5 +95,6 @@ hollywood_hub/
 ~ SQLAlchemy: https://docs.sqlalchemy.org/en/14/orm/quickstart.html
 ~ Anvil: https://anvil.works/blog/http-api-endpoints
 ~ Image handling: https://pythonguides.com/python-save-an-image-to-file/
+
 
 
