@@ -52,26 +52,26 @@ hollywood_hub/
 
    1. ## Development Environment Preparation 
       
-      - Ensure that you have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
-      -  Install Python 3.13 or later version, along with pip, to proceed with installing *modules*/*packages* from the *requirements* file
+      1.1. Ensure that you have a suitable integrated development environment (IDE) installed. You may use Visual Studio Code (VSC) or any other highquality IDE for this project
+      1.2. Install Python 3.13 or later version, along with pip, to proceed with installing *modules*/*packages* from the *requirements* file
      
    2. ## Virtual Environment Configuration 
       
-      - This Step is not crucial, however to prevent confilicts with other python-packages in your system when installing, 
+      This Step is not crucial, however to prevent confilicts with other python-packages in your system when installing, 
         1. create a virtual environment using the following command in your command-line interface *python -m venv <name_of_your_virt_folder>
         2. cd <name_of_your_virt_folder>/Scripts/activate
      
    3. ## Dependecy Intallation 
     
-    - Install all required modules listed in the *requirements.txt*
+    ~ Install all required modules listed in the *requirements.txt*
 
    4. ## Project excecution 
     
         1.  Open the *databaselayer.ipynb*  and execute all its cells. Make sure all cells are ticked green and unvicorn is running. You should see this info: 
-            INFO:     Started server process [24540] # Or your port number
-            INFO:     Waiting for application startup.
-            INFO:     Application startup complete.
-            INFO:     Uvicorn running on http://127.0.0.1:8000
+            1.1. INFO:     Started server process [24540] # Or your port number
+            1.2. INFO:     Waiting for application startup.
+            1.3. INFO:     Application startup complete.
+            1.4. INFO:     Uvicorn running on http://127.0.0.1:8000
 
         2.  Open the *applayer.ipynb*  and execute all its cells. Make sure  all cells are ticked green and there is a connection to the application. You should see this info or atleast no errors. 
         Note: the output below only appear ones when starting this project:
@@ -80,20 +80,20 @@ hollywood_hub/
            Connected to "Default Environment" as SERVER
 
  # Load the Application: 
-   To run the application: https://sleepy-royal-slice.anvil.app
-   his software should open an run fine, when the **databaselayer.ipynb** and **applayer.ipynb** are running. If you encounter errors, please make sure both files are running.
+   To run the application: https://sleepy-royal-slice.anvil.app //his software should open an run fine, when the **databaselayer.ipynb** and **applayer.ipynb** are running. If you encounter errors, please make sure both files are running.
   
    ## Navigating through Application 
     
-    Click on the actor's name to obtain detailed information 
-    Alternatively, manually enter the actor's name into the search field
-    If the name is misspelled, an error notification will be displayed
+    1. Click on the actor's name to obtain detailed information 
+    2. Alternatively, manually enter the actor's name into the search field
+    3. If the name is misspelled, an error notification will be displayed
 # Testing
     Before running test, please make sure the databaselayer.ipynb is running otherwise there will be an error
 # Important Links for references
 
-FastAPI - SQLite Databases: https://www.geeksforgeeks.org/fastapi-sqlite-databases/
-SQLAlchemy: https://docs.sqlalchemy.org/en/14/orm/quickstart.html
-Anvil: https://anvil.works/blog/http-api-endpoints
-Image handling: https://pythonguides.com/python-save-an-image-to-file/
+~ FastAPI - SQLite Databases: https://www.geeksforgeeks.org/fastapi-sqlite-databases/
+~ SQLAlchemy: https://docs.sqlalchemy.org/en/14/orm/quickstart.html
+~ Anvil: https://anvil.works/blog/http-api-endpoints
+~ Image handling: https://pythonguides.com/python-save-an-image-to-file/
+
 
