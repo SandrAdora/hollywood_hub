@@ -11,9 +11,9 @@ This project is a python-based application that provides information about the t
 2. Celebrity Biography and Birth year
 3. Movie Details 
 4. Awards Information 
-5. Database storage for Fast data Access 
+5. FastAPI Backend with SQLite Database storage for Fast data Access 
 6. User-Friendly Web Interface
-7. FastAPI Backend with IMDb API integration 
+
 
 ## Project Structure 
 
