@@ -69,10 +69,10 @@ hollywood_hub/
    4. ## Project excecution 
     
       Open the *databaselayer.ipynb*  and execute all its cells. Make sure all cells are ticked green and unvicorn is running. You should see this info: 
-         1. INFO:     Started server process [24540] # Or your port number
+         1. INFO:     Started server process [*****] # your port number
          2. INFO:     Waiting for application startup.
          3. INFO:     Application startup complete.
-         4. INFO:     Uvicorn running on http://127.0.0.1:8000
+         4. INFO:     Uvicorn running on http://127.0.*.*:**** available portnumber
 
       Open the *applayer.ipynb*  and execute all its cells. Make sure  all cells are ticked green and there is a connection to the application. You should see this info or atleast no errors. 
         Note: the output below only appear ones when starting this project:
